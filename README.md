@@ -8,7 +8,7 @@
 </div>
 <br >
 
-### Languages and Technologies
+## Programming Languages, Frameworks and Technologies
 
 <img 
     align="left" 
