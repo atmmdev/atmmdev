@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="readme/logo/favicon.png" />
+  <img src="./favicon.png" />
   <h1>Anderson Toledo Martins Moreira</h1>
   <a href="http://www.atmm.dev" target="_blank">Portfolio Online</a>
 
