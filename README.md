@@ -2,7 +2,6 @@
   <img src="./favicon.png" />
   <h1>Anderson Toledo Martins Moreira</h1>
   <a href="http://www.atmm.dev" target="_blank">Portfolio Online</a>
-
 <br />
 
 > Software Developer that love learn and improve your skills in programming languages like CSS (SASS, Bootstrap, TailwindCSS) | JavaScript | React (Next.js) | Typescript | Node (Nest.js) | PHP (Laravel | WordPress), and I started learning about Python and Data Science.
@@ -11,7 +10,6 @@
 <div align="center">
 
   ## Certifications
-
   <img 
     alt="HTML"
     title="HTML" 
@@ -32,12 +30,10 @@
     width="120px" 
     style="padding: 10px;" 
     src="https://atmm.dev/badges/salesforce-associate.png" 
-  />
-  
+  />  
 </div>
 
 ## Programming Languages, Frameworks and Technologies
-
 <img 
     align="left" 
     alt="HTML"
