@@ -40,7 +40,7 @@
   
 </div>
 
-<br />
+<br /><br />
 
 ## Programming Languages, Frameworks and Technologies
 
