@@ -6,7 +6,41 @@
 > Software Developer that love learn and improve your skills in programming languages like CSS (SASS, Bootstrap, TailwindCSS) | JavaScript | React (Next.js) | Typescript | Node (Nest.js) | PHP (Laravel | WordPress), and I started learning about Python and Data Science.
 
 </div>
-<br >
+
+<br />
+
+<div align="center">
+
+  ## Certifications
+
+  <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="80px" 
+    style="padding-right: 10px;" 
+    src="https://atmm.dev/badges/apollo-graphql.png" 
+  />
+  <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="80px" 
+    style="padding-right: 10px;" 
+    src="https://atmm.dev/badges/git-foundations.png" 
+  />
+    <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="80px" 
+    style="padding-right: 10px;" 
+    src="https://atmm.dev/badges/salesforce-associate.png" 
+  />
+  
+</div>
+
+<br />
 
 ## Programming Languages, Frameworks and Technologies
 
@@ -146,7 +180,4 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
 
