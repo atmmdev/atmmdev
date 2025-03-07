@@ -60,119 +60,126 @@
 <img 
     alt="HTML"
     title="HTML" 
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     alt="CSS" 
     title="CSS"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     alt="JavaScript" 
     title="JavaScript"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     alt="TypeScript"
     title="TypeScript" 
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     alt="React"
     title="React" 
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     alt="Next.js" 
     title="Next.js"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     alt="Node" 
     title="Node"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     alt="Nest.js" 
     title="Nest.js"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
 <img 
     alt="Nest.js" 
     title="Nest.js"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" 
 />
 <img 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="45px" 
-    style="padding: 10px;" 
+    alt="TailwindCSS" 
+    title="TailwindCSS"
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     alt="SASS" 
     title="SASS"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
     alt="PHP" 
     title="PHP"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
+    alt="WordPress" 
+    title="WordPress"
+    width="55px" 
+    style="margin: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
+/>          
+<img 
     alt="Laravel" 
     title="Laravel"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     alt="JQuery" 
     title="JQuery"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     alt="Git" 
     title="Git"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     alt="Python" 
     title="Python"
-    width="45px" 
-    style="padding: 10px;" 
+    width="55px" 
+    style="margin: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
