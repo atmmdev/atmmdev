@@ -58,7 +58,6 @@
 
 ## Programming Languages, Frameworks and Technologies
 <img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="45px" 
@@ -66,7 +65,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="45px" 
@@ -74,7 +72,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="45px" 
@@ -82,7 +79,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="45px" 
@@ -90,7 +86,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
-    align="left" 
     alt="React"
     title="React" 
     width="45px" 
@@ -98,7 +93,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
-    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="45px" 
@@ -106,7 +100,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
-    align="left" 
     alt="Node" 
     title="Node"
     width="45px" 
@@ -114,7 +107,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
-    align="left" 
     alt="Nest.js" 
     title="Nest.js"
     width="45px" 
@@ -122,7 +114,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
 <img 
-    align="left" 
     alt="Nest.js" 
     title="Nest.js"
     width="45px" 
@@ -130,7 +121,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" 
 />
 <img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="45px" 
@@ -138,7 +128,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
-    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="45px" 
@@ -146,7 +135,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
-    align="left" 
     alt="SASS" 
     title="SASS"
     width="45px" 
@@ -154,7 +142,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="45px" 
@@ -162,7 +149,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
-    align="left" 
     alt="Laravel" 
     title="Laravel"
     width="45px" 
@@ -170,7 +156,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="45px" 
@@ -178,7 +163,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="45px" 
@@ -186,7 +170,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="45px" 
