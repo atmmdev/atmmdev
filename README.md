@@ -4,7 +4,7 @@
   <a href="http://www.atmm.dev" target="_blank">Portfolio Online</a> <br /><br />
 </div>
 
-> My journey began in 2000, and with over 20 years of experience, I have worked in various roles, building solid expertise from initial project analysis to production deployment. These roles include UI Specialist, Frontend Software Developer, PHP Fullstack Developer, and WordPress Software Developer. My combined experience in design and development enables me to deliver complete and scalable solutions.
+> My journey began in 2000, and with over 20 years of experience, I have worked in various roles, building solid expertise from initial project analysis to production deployment. These roles include UI Specialist Design, Frontend Software Developer, PHP Fullstack Developer, and WordPress Software Developer. My combined experience in design and development enables me to deliver complete and scalable solutions.
 >
 > I have participated in over 200 projects, creating layouts for Websites, Web Applications, and Dashboards using HTML5, CSS3, Photoshop, Illustrator, and Figma. Since 2011, I have been working with WordPress, developing custom Plugins and Themes. I am proficient in Custom Post Types, Advanced Custom Fields, Hooks (Actions and Filters), WP REST API, and Page Builders such as Elementor, Visual Composer, Divi, and WP Bakery.
 >
