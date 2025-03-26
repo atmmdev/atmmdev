@@ -28,7 +28,7 @@
 > TECHNICAL SKILLS
 > - 10 to 20 years: HTML5, CSS3 (SASS, Bootstrap, TailwindCSS), Media Queries, Grid Layout, Flexbox, Git, GitHub, Bitbucket, VSCode, JIRA, Confluence, ClickUp, WordPress, Figma, Adobe XD, Photoshop, Illustrator, and Sketch.
 > - 5 to 9 years: JavaScript (ES6+), jQuery, Axios, FetchAPI, React.js, React-Router, ContextAPI, Redux-Toolkit, PHP, MongoDB, MySQL, RESTful API’s, Docker, Vite, Scrum, and Kanban.
-> - 1 to 3 years: HTMX, Next.js, Zustand, Node.js, Nest.js, Express.js, TypeScript, Laravel, Python (Data Science), GraphQL, AWS, Jest, React Testing Library, and Zapier.
+> - 1 to 3 years: HTMX, Next.js, Zustand, Node.js, Nest.js, Express.js, TypeScript, Laravel, GraphQL, AWS, Jest, React Testing Library, and Zapier.
 
 <div align="center">
 
