@@ -1,7 +1,6 @@
 <div align="center">
   <img src="./favicon.png" />
   <h1>Anderson Toledo Martins Moreira</h1>
-  <a href="http://www.atmm.dev" target="_blank">Portfolio Online</a> <br /><br />
 </div>
 
 My name is Anderson Martins, and I began my journey in 2000, and with over 20 years of experience, I have worked in different roles, building a solid track record and expertise - from initial project analysis to production deployment. These roles include: UI Specialist Design, Frontend Software Developer, PHP Fullstack Developer, and WordPress Software Developer. This combination experience in design and development enables me to deliver complete and scalable solutions.
