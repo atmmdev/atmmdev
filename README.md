@@ -9,7 +9,7 @@ I have participated in over 200 projects, creating layouts for Websites, Web App
 
 In 2014, I started working as Frontend Software Developer, and I deepened my knowledge of JavaScript, React.js, and Next.js, besides gaining strong expertise in responsive design (Flexbox, Grid Layout, Media Queries), performance optimization, and code maintenance. I also have experience with the MERN Stack (MongoDB, Express.js, React.js, Node.js), RESTful API development, and UI frameworks like Bootstrap, TailwindCSS, and SASS.
 
-I continuously expand my knowledge in TypeScript, GraphQL, Docker, Nest.js, Laravel, Design Patterns, and Test-Driven Development (TDD) methodologies to ensure high-quality code and stay updated through books, Udemy courses, and YouTube channels. My goal is becoming a Frontend Staff Engineer. In order to acquire knowledge in Cloud Computing, I started studying for the coveted AWS certifications (Cloud Practitioner, Developer Associate, Solutions Architect). 
+My goal is becoming a Frontend Staff Engineer, so I continuously expand my knowledge in TypeScript, GraphQL, Docker, Nest.js, Laravel, Design Patterns, and Test-Driven Development (TDD) methodologies to ensure high-quality code and stay updated through books, Udemy courses, and YouTube channels. In order to acquire knowledge in Cloud Computing, I started studying for the coveted AWS certifications (Cloud Practitioner, Developer Associate, Solutions Architect).  
 
 I thank you for your time and consideration to read this introduction. I invite you to check out my portfolio at: [ATMM.dev](https://www.atmm.dev).
 
