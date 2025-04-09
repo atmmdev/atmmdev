@@ -22,9 +22,7 @@ TECHNICAL SKILLS
 - 5 to 9 years: JavaScript (ES6+), jQuery, Axios, FetchAPI, React.js, React-Router, ContextAPI, Redux-Toolkit, PHP, MongoDB, MySQL, RESTful API’s, Docker, Vite, Scrum, and Kanban.
 - 1 to 3 years: HTMX, Next.js, Zustand, Node.js, Nest.js, Express.js, TypeScript, Laravel, Python (Data Science), GraphQL, AWS, Jest, React Testing Library, and Zapier.
 
-<div align="center">
-
-  ## Certifications
+## Certifications
   <img 
     alt="HTML"
     title="HTML" 
@@ -46,7 +44,7 @@ TECHNICAL SKILLS
     style="padding: 10px;" 
     src="https://atmm.dev/badges/salesforce-associate.png" 
   />  
-</div>
+
 
 ## Courses and Certifieds
 
