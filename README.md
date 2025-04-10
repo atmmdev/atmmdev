@@ -28,22 +28,22 @@ TECHNICAL SKILLS
 <img 
     alt="HTML"
     title="HTML" 
-    width="100px" 
-    style="" 
+    width="100px"
+    style="padding:10px" 
     src="https://atmm.dev/badges/apollo-graphql.png" 
   />
 <img 
     alt="HTML"
     title="HTML" 
-    width="100px" 
-    style="" 
+    width="100px"
+    style="padding:10px" 
     src="https://atmm.dev/badges/git-foundations.png" 
   />
 <img 
     alt="HTML"
     title="HTML" 
-    width="100px" 
-    style="" 
+    width="100px"
+    style="padding:10px" 
     src="https://atmm.dev/badges/salesforce-associate.png" 
   />
 
@@ -79,9 +79,7 @@ TECHNICAL SKILLS
 
 ## Books read
 
-<div style="display:flex;flex-wrap:wrap;justify-content:center">
-  <figure style="display:flex;flex-direction:column;text-align:center">
-    <img width="200px" style="border-radius: 15px;" src="./books/book-cover-page.jpg" alt="First Bookt" />    
-    <figcaption> <a href="#">Summary</a> </figcaption>
-  </figure> 
-</div>
+<img width="200px" style="padding:10px" src="./books/book-cover-page.jpg" alt="First Bookt" /> 
+<img width="200px" style="padding:10px" src="./books/book-cover-page.jpg" alt="First Bookt" /> 
+<img width="200px" style="padding:10px" src="./books/book-cover-page.jpg" alt="First Bookt" /> 
+<img width="200px" style="padding:10px" src="./books/book-cover-page.jpg" alt="First Bookt" /> 
