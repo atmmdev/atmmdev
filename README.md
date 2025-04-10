@@ -78,8 +78,4 @@ TECHNICAL SKILLS
 - [Tracalories](https://github.com/atmmdev/tracalories.javascript) - [Demo](https://tracalories-javascript.vercel.app/)
 
 ## Books read
-
-<img width="200px" style="padding:10px" src="./books/book-cover-page.jpg" alt="First Bookt" /> 
-<img width="200px" style="padding:10px" src="./books/book-cover-page.jpg" alt="First Bookt" /> 
-<img width="200px" style="padding:10px" src="./books/book-cover-page.jpg" alt="First Bookt" /> 
-<img width="200px" style="padding:10px" src="./books/book-cover-page.jpg" alt="First Bookt" /> 
+- Coming soon
