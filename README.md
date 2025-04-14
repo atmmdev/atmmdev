@@ -74,8 +74,10 @@ TECHNICAL SKILLS
 - [Github Finder](https://github.com/atmmdev/github.finder.react) - [Demo](https://github-finder-react-zeta.vercel.app/)
 - [House Marketplace](https://github.com/atmmdev/house.marketplace.react) - [Demo](https://house-marketplace-react-eight.vercel.app/)
 - [Learning TailwindCSS](https://github.com/atmmdev/learning.tailwindcss)
+- [Portfólio](https://github.com/atmmdev/portfolio) - [Demo](https://atmm.dev/)
 - [Support Desk](https://github.com/atmmoreira/project.mern.support.desk)
 - [Tracalories](https://github.com/atmmdev/tracalories.javascript) - [Demo](https://tracalories-javascript.vercel.app/)
+- [Twenty Web Projects (JavaScript)](https://github.com/atmmdev/twenty.web.projects.javascript)
 
 ## Books read
 - Coming soon
