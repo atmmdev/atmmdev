@@ -70,6 +70,7 @@ TECHNICAL SKILLS
 
 - [Boilerplate Dashboard](https://github.com/atmmdev/boilerplate.html.dashboard)
 - [Feedback UI](https://github.com/atmmoreira/project.feedback.ui.react)
+- [Fitness Training](https://github.com/atmmdev/fitness.react)
 - [Flix Movies](https://github.com/atmmdev/flixx.movies.javascript) - [Demo](https://flixx-movies-javascript.vercel.app/)
 - [Github Finder](https://github.com/atmmdev/github.finder.react) - [Demo](https://github-finder-react-zeta.vercel.app/)
 - [House Marketplace](https://github.com/atmmdev/house.marketplace.react) - [Demo](https://house-marketplace-react-eight.vercel.app/)
@@ -80,4 +81,5 @@ TECHNICAL SKILLS
 - [Twenty Web Projects (JavaScript)](https://github.com/atmmdev/twenty.web.projects.javascript)
 
 ## Books read
+
 - Coming soon
