@@ -3,25 +3,21 @@
   <h1>Anderson Toledo Martins Moreira</h1>
 </div>
 
-My name is Anderson Martins, and I began in 2000 as UI Specialist Designer, and with over 20 years of experience, I have worked in various roles, building solid expertise from initial project analysis to production deployment. These roles include UI Specialist Design, Frontend Software Developer, PHP Fullstack Developer, and WordPress Software Developer. My combined experience in design and development enables me to deliver complete and scalable solutions.
+My name is Anderson Martins, and my journey began in 2000 as a UI Specialist Designer. With over 20 years of experience, I have built a robust and versatile skill set that spans from early-stage project analysis to scalable production deployment. Over the years, I’ve taken on multiple roles — including UI Specialist Designer, Frontend Software Developer, PHP Fullstack Developer, and WordPress Developer — combining design precision with strong technical expertise to deliver efficient, maintainable, and user-centered solutions.
 
-I have participated in over 200 projects, creating layouts for Websites, Web Applications, and Dashboards using HTML5, CSS3, JavaScript, Photoshop, Illustrator, and Figma. Since 2011, I have been working with WordPress, developing custom Plugins and Themes. I am proficient in Custom Post Types, Advanced Custom Fields, Hooks (Actions and Filters), WP REST API, and Page Builders such as Elementor, Visual Composer, Divi, and WP Bakery.
+I have contributed to more than 100 projects, designing and developing user interfaces for websites, web applications, and data-driven dashboards. My design and prototyping toolkit includes HTML5, CSS3, JavaScript, Photoshop, Illustrator, and Figma. Since 2011, I have specialized in custom WordPress development, building themes and plugins from scratch. My expertise includes Custom Post Types, Advanced Custom Fields, WordPress Hooks (Actions & Filters), WP REST API, and page builders such as Elementor, Beaver Builder, WP Bakery, Oxygen, and Divi.
 
-In 2014, I started working as Frontend Software Developer, and I deepened my knowledge of JavaScript, React.js, and Next.js, besides gaining strong expertise in responsive design (Flexbox, Grid Layout, Media Queries), performance optimization, and code maintenance. I also have experience with the MERN Stack (MongoDB, Express.js, React.js, Node.js), RESTful API development, and UI frameworks like Bootstrap, TailwindCSS, and SASS.
+In 2014, I expanded my focus to frontend software development, deepening my knowledge of JavaScript and modern frameworks like React.js and Next.js. I have developed strong expertise in responsive UI design (Flexbox, CSS Grid, Media Queries), performance optimization, and scalable, maintainable codebases. I am also proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), RESTful API integration, and modern UI libraries including Tailwind CSS, Bootstrap, and preprocessors like Sass.
 
-My goal is becoming a Frontend Staff Engineer, so I continuously expand my knowledge in TypeScript, GraphQL, Docker, Nest.js, Laravel, Design Patterns, and Test-Driven Development (TDD) methodologies to ensure high-quality code and stay updated through books, Udemy courses, and YouTube channels. In order to acquire knowledge in Cloud Computing, I started studying for the AWS certifications (Cloud Practitioner, Developer Associate, Solutions Architect).
+Currently, my goal is to become a Frontend Staff Engineer within the next five years. To achieve this, I am continuously advancing my skills in TypeScript, GraphQL, Docker, NestJS, Laravel, software architecture, design patterns, and Test-Driven Development (TDD). I stay current through books, Udemy courses, and YouTube. Additionally, I am preparing for AWS certifications — Cloud Practitioner, Developer Associate, and Solutions Architect — to strengthen my capabilities in cloud-based architectures.
 
-I thank you for your time and consideration to read this introduction. I invite you to check out my portfolio at: [ATMM.dev](https://www.atmm.dev).
-
-I look forward to hearing from you soon to discuss anything that you want. Here is my contacts: [Whatsapp](https://bit.ly/3RoY44X) and [E-mail](mailto:atmmoreira.rj@gmail.com).
-
-Here you can find some projects: [Github](https://github.com/atmmdev) and [LinkedIn](https://www.linkedin.com/in/atmmoreira).
+I thank you for your time and consideration to read this introduction. I invite you to check out my portfolio at: [ATMM.dev](https://www.atmm.dev). I look forward to hearing from you soon to discuss anything that you want. Here is my contacts: [Whatsapp](https://bit.ly/3RoY44X) and [E-mail](mailto:atmmoreira.rj@gmail.com). Here you can find some projects: [Github](https://github.com/atmmdev) and [LinkedIn](https://www.linkedin.com/in/atmmoreira).
 
 TECHNICAL SKILLS
 
-- 15+ years: HTML5, CSS3 (SASS, Bootstrap, TailwindCSS), Media Queries, Grid Layout, Flexbox, Git, GitHub, Bitbucket, VSCode, JIRA, Confluence, ClickUp, WordPress, Figma, Adobe XD, Photoshop, Illustrator, and Sketch.
+- 15+ years: HTML5, CSS3 (SASS, Bootstrap, TailwindCSS), Media Queries, Grid Layout, Flexbox, Git, GitHub, Bitbucket, VSCode, JIRA, Confluence, ClickUp, WordPress, Figma, Photoshop, and Illustrator.
 - 5+ years: JavaScript (ES6+), jQuery, Axios, FetchAPI, React.js, React-Router, ContextAPI, Redux-Toolkit, PHP, MongoDB, MySQL, RESTful API’s, Docker, Vite, Scrum, and Kanban.
-- 1 to 3 years: HTMX, Next.js, Zustand, Node.js, Nest.js, Express.js, TypeScript, Laravel, Python (Data Science), GraphQL, AWS, Jest, React Testing Library, and Zapier.
+- 1 to 3 years: HTMX, Next.js, Zustand, Node.js, Nest.js, Express.js, TypeScript, Laravel, GraphQL, AWS, Jest, React Testing Library, and Zapier.
 
 ## Certifications
 
@@ -47,7 +43,7 @@ TECHNICAL SKILLS
     src="https://atmm.dev/badges/salesforce-associate.png" 
   />
 
-## Courses and Certifieds
+## Training Certifications
 
 - [Course basic of API's with Nodejs, Express and Mongodb](https://www.udemy.com/certificate/UC-EON3JIQT/)
 - [Course of JavaScript and TypeScript from beginner to advanced](https://www.udemy.com/certificate/UC-ba24181c-a2d4-4892-9124-4b49637f3775/)
