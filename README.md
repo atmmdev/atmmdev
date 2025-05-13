@@ -22,25 +22,25 @@ TECHNICAL SKILLS
 ## Certifications
 
 <img 
-    alt="HTML"
-    title="HTML" 
-    width="100px"
-    style="padding:10px" 
-    src="https://atmm.dev/badges/apollo-graphql.png" 
+ alt="HTML"
+ title="HTML" 
+ width="100px"
+ style="padding:10px" 
+ src="https://atmm.dev/badges/apollo-graphql.png" 
   />
 <img 
-    alt="HTML"
-    title="HTML" 
-    width="100px"
-    style="padding:10px" 
-    src="https://atmm.dev/badges/git-foundations.png" 
+ alt="HTML"
+ title="HTML" 
+ width="100px"
+ style="padding:10px" 
+ src="https://atmm.dev/badges/git-foundations.png" 
   />
 <img 
-    alt="HTML"
-    title="HTML" 
-    width="100px"
-    style="padding:10px" 
-    src="https://atmm.dev/badges/salesforce-associate.png" 
+ alt="HTML"
+ title="HTML" 
+ width="100px"
+ style="padding:10px" 
+ src="https://atmm.dev/badges/salesforce-associate.png" 
   />
 
 ## Training Certifications
@@ -64,17 +64,86 @@ TECHNICAL SKILLS
 
 ## Projects
 
-- [Boilerplate Dashboard](https://github.com/atmmdev/boilerplate.html.dashboard)
-- [Feedback UI](https://github.com/atmmoreira/project.feedback.ui.react)
-- [Fitness Training](https://github.com/atmmdev/fitness.react) - [Demo](https://atmm.dev/treinos)
-- [Flix Movies](https://github.com/atmmdev/flixx.movies.javascript) - [Demo](https://flixx-movies-javascript.vercel.app/)
-- [Github Finder](https://github.com/atmmdev/github.finder.react) - [Demo](https://github-finder-react-zeta.vercel.app/)
-- [House Marketplace](https://github.com/atmmdev/house.marketplace.react) - [Demo](https://house-marketplace-react-eight.vercel.app/)
-- [Learning TailwindCSS](https://github.com/atmmdev/learning.tailwindcss)
-- [Portfólio](https://github.com/atmmdev/portfolio) - [Demo](https://atmm.dev/)
-- [Support Desk](https://github.com/atmmoreira/project.mern.support.desk)
-- [Tracalories](https://github.com/atmmdev/tracalories.javascript) - [Demo](https://tracalories-javascript.vercel.app/)
-- [Twenty Web Projects (JavaScript)](https://github.com/atmmdev/twenty.web.projects.javascript)
+### Frontend Projects - JavaScript, Sass/Scss, Bootstrap, Tailwind CSS, and React (Incl. Next.js)
+| Project | Stack | Descriptions | Link |
+|---|---|---|---|
+| Bodybuilding Workouts  - App | Vite, React, and Bootstrap. | Simple fitness training app with responsiveness and a focus on mobile-first design. | [Access](http://www.atmm.dev/treinos) - [Repository](https://github.com/atmmdev/boilerplate.html.dashboard) |
+| 20 Web Projects in JavaScript | HTML5, CSS3 (Incl. Sass), JavaScript Vanilla. | Mini apps (like Modal, Form Validator, Timer, etc). | [Repository](http://www.github.com/atmmdev/twenty.web.projects.javascript) |
+| Learning Tailwind CSS | Tailwind CSS | Experimenting Tailwind utilities for responsive layouts and reusable components with mini projects and web projects. | [Repository](http://www.github.com/atmmdev/learning.tailwindcsst) |
+| House Marketplace | Vite, React, React Router, Leaflet.js, Authentication, and Firebase. | Real estate marketplace with Authentication, and CRUD on Firebase. | [Access](https://house-marketplace-react-eight.vercel.app) - [Repository](https://github.com/atmmdev/house.marketplace.react) |
+| Tracalories | JavaScript Vanilla | Calories and meals tracking with CRUD localStorage, using Vanilla JavaScript, and OOP. | [Access](https://tracalories-javascript.vercel.app) - [Repository](https://github.com/atmmdev/tracalories.javascript) |
+| GitHub Finder | React, Axios, React Router, DaisyUI, Tailwind CSS, API GitHub | GitHub API User and Repository Search with React Router and Axios. | [Access](https://github-finder-react-zeta.vercel.app) - [Repository](https://github.com/atmmdev/github.finder.react) |
+| Flixx Movies | JavaScript, TMDB API | Movie catalog with rating and synopsis via TMDB API consumption. | [Access](https://flixx-movies-javascript.vercel.app) - [Repository](https://github.com/atmmdev/flixx.movies.javascript) |
+| VivaiTour | React, Redux Tollkit, NextJs, Node, Swiper, Vercel, and Webpack. | Travel agency with WhatsApp integration and SEO optimizations. | [Access](https://www.vivaitour.com.br/) |
+
+<br />
+
+### Fullstack Projects - PHP, Laravel, and WordPress (Gutenberg Blocks, Elementor, Beaver Builder, WP Bakery, Oxygen, and Divi).
+
+| Client | Stack | Description | Link |
+|---|---|---|---|
+| Acura of Escondido | WordPress, PHP, Local SEO | A modern car dealership website designed to boost visibility and optimize user experience for the Acura brand.  | [acuraofescondido.com](https://www.acuraofescondido.com) |
+| Acura of Portland | WordPress, PHP | Another dealership site with a clean design to enhance user experience. | [acuraofportland.com](https://www.acuraofportland.com) |
+| Acura of Salem | WordPress, PHP | A dealership website tailored for the Acura brand, with responsive design.  | [acuraofsalem.com](https://www.acuraofsalem.com) |
+| Acura of Springfield  | WordPress, PHP | A responsive and user-friendly dealership site with integrated features. | [acuraofspringfield.com](https://www.acuraofspringfield.com) |
+| BMW of Fort Lauderdale  | WordPress, PHP | A site focusing on BMW vehicles with great user experience and details. | [bmwoffortlauderdale.com](https://www.bmwoffortlauderdale.com) |
+| Baron MINI | WordPress, PHP | Dedicated to the MINI brand with an emphasis on inventory management.| [baronmini.com](https://www.baronmini.com) |
+| Biggers Mitsubishi | WordPress, PHP | Car dealership site with a modern UI, focusing on Mitsubishi models. | [biggersmitsubishi.com](https://www.biggersmitsubishi.com) |
+| Bosak Toyota | WordPress, PHP | Professional car dealership website with easy navigation for Toyota cars. | [bosaktoyotachesterton.com](https://www.bosaktoyotachesterton.com)  |
+| Capital Chevrolet | WordPress, PHP | A clean and modern website for Chevrolet cars, optimized for conversions. | [capitalchev.ca](https://www.capitalchev.ca) |
+| Central Maine Toyota | WordPress, PHP | A straightforward site dedicated to Toyota models with integrated inventory. | [cmtoy.com](https://www.cmtoy.com) |
+| Chilliwack VW  | WordPress, PHP | Focused on promoting Volkswagen models in an attractive layout.  | [chilliwackvw.ca](https://www.chilliwackvw.ca)  |
+| Classic Toyota Hampton  | WordPress, PHP | User-friendly interface for Toyota cars, with modern UX design. | [classictoyotahampton.com](https://www.classictoyotahampton.com) |
+| Crown Nissan | WordPress, PHP | Offers easy navigation for Nissan car buyers with all necessary features. | [crownnissan.com](https://www.crownnissan.com)  |
+| Dorsett DR | WordPress, PHP | A modern site showcasing vehicle inventory and services. | [dorsettdr.com](https://www.dorsettdr.com) |
+| EVMitsubishi | WordPress, PHP | Mitsubishi dealership site optimized for mobile and desktop.  | [evmitsubishi.com](https://www.evmitsubishi.com) |
+| Firkins Mitsubishi | WordPress, PHP | Comprehensive Mitsubishi site focusing on user experience.| [firkinsmitsubishi.com](https://www.firkinsmitsubishi.com) |
+| Flemington Infiniti| WordPress, PHP | Infiniti car dealership with an emphasis on clean UI design and usability.  | [flemingtoninfiniti.com](https://www.flemingtoninfiniti.com) |
+| Fusz Subaru  | WordPress, PHP | A Subaru-focused dealership site, with a modern and clean design.  | [fuszsubaru.com](https://www.fuszsubaru.com) |
+| Genesis of Wayne  | WordPress, PHP, External Integrations | Focused on Genesis cars, with integrations for external inventory management. | [genesisofwayne.com](https://www.genesisofwayne.com)  |
+| Hellman Ford | WordPress, PHP | Ford dealership site with user-centered design and local SEO optimization.  | [hellmanford.net](https://www.hellmanford.net)  |
+| Infiniti of San Jose  | WordPress, PHP | A luxury car dealership with a smooth and responsive layout.  | [infinitiofsanjose.com](https://www.infinitiofsanjose.com) |
+| Jaguar Marlboro| WordPress, PHP | A refined and luxury-focused site for Jaguar models.| [jaguarmarlboro.com](https://www.jaguarmarlboro.com)  |
+| Keyes Mercedes | WordPress, PHP | Mercedes-Benz dealership optimized for lead generation and UI experience.| [keyesmercedes.com](https://www.keyesmercedes.com)  |
+| Land Rover Boise  | WordPress, PHP | A sophisticated Land Rover website with elegant design and functionality. | [landroverboise.com](https://www.landroverboise.com)  |
+| Land Rover Edison | WordPress, PHP | Clean and modern site for Land Rover buyers.  | [landroveredison.com](https://www.landroveredison.com)|
+| Lexus of Albuquerque  | WordPress, PHP | A luxury-focused website for Lexus buyers. | [lexusofalbuquerque.com](https://www.lexusofalbuquerque.com) |
+| Lexus of Atlantic City  | WordPress, PHP | High-quality site showcasing Lexus models, with emphasis on user interface. | [lexusofatlanticcity.com](https://www.lexusofatlanticcity.com)  |
+| MB Moncton | WordPress, PHP | Mercedes-Benz website focused on performance and inventory management. | [mercedes-benz-moncton.ca](https://www.mercedes-benz-moncton.ca) |
+| MB Oakville  | WordPress, PHP | A Mercedes-Benz dealership with a clean design for better conversion rates. | [mercedes-benz-oakville.ca](https://www.mercedes-benz-oakville.ca)  |
+| MB Sugar Land  | WordPress, PHP | Mercedes-Benz site with a streamlined layout and inventory search options.  | [mbsugarland.com](https://www.mbsugarland.com)  |
+| MBZ NO  | WordPress, PHP | A detailed Mercedes-Benz site with SEO enhancements for higher ranking.  | [mbzno.com](https://www.mbzno.com) |
+| Maserati of Downers Grove  | WordPress, PHP | Focused on Maserati models with intuitive UI design.| [maseratiofdownersgrove.com](https://www.maseratiofdownersgrove.com)  |
+| Maserati of LI | WordPress, PHP | A luxurious site dedicated to Maserati with elegant features and design. | [maseratili.com](https://www.maseratili.com) |
+| Mazda Ottawa | WordPress, PHP | A modern site with engaging visuals and easy-to-use vehicle browsing tools.  | [mazda-ottawa.com](https://www.mazda-ottawa.com) |
+| Mercedes ABQ | WordPress, PHP | A responsive site for Mercedes-Benz cars, with a focus on lead generation.  | [mercedesabq.com](https://www.mercedesabq.com)  |
+| My Capital Ford| WordPress, PHP | Ford dealership with a user-friendly interface and easy navigation. | [mycapitalford.com](https://www.mycapitalford.com)  |
+| Norden VW  | WordPress, PHP | Volkswagen dealership site designed to enhance customer interaction.| [nordenvw.ca](https://www.nordenvw.ca)  |
+| Nucar Nissan | WordPress, PHP | Nissan-focused website with strong branding and clean UX design.| [nucarnissannorwood.com](https://www.nucarnissannorwood.com) |
+| O'CHonda World | WordPress, PHP | Honda dealership site with easy navigation and advanced SEO.  | [ochondaworld.com](https://www.ochondaworld.com) |
+| Peterson BMW | WordPress, PHP | A BMW website with sleek, luxury design and great vehicle browsing options. | [petersonbmw.com](https://www.petersonbmw.com)  |
+| Pickering VW | WordPress, PHP | A Volkswagen dealership with an intuitive interface and strong visuals.  | [pickeringvw.ca](https://www.pickeringvw.ca) |
+| Porsche Bend | WordPress, PHP | A luxury car dealership with a clean layout showcasing Porsche models. | [porschebend.com](https://www.porschebend.com)  |
+| Porsche Hawaii | WordPress, PHP | Website for Porsche Hawaii, focused on vehicle sales and brand promotion.| [porschehawaii.com](https://www.porschehawaii.com)  |
+| Porsche Lehi | WordPress, PHP | Modern website for Porsche Lehi, optimized for high conversions.| [porschelehi.com](https://www.porschelehi.com)  |
+| Porsche San Diego | WordPress, PHP, Advanced SEO| A high-performance website with advanced SEO for Porsche buyers.| [porschesandiego.com](https://www.porschesandiego.com)|
+| Quality Toyota | WordPress, PHP | A well-designed Toyota dealership site with modern features.  | [qualitytoyota.net](https://www.qualitytoyota.net)  |
+| Reggie Jackson Honda  | WordPress, PHP | Honda dealership website with a focus on customer engagement. | [reggiejacksonairporthonda.com](https://www.reggiejacksonairporthonda.com)|
+| Rick Case Maserati | WordPress, PHP | Maserati-focused dealership with easy browsing and user interaction.| [rickcasemaserati.com](https://www.rickcasemaserati.com) |
+| Rusnak Arcadia | WordPress, PHP | A car dealership site with advanced vehicle search and lead generation.  | [rusnakarcadia.com](https://www.rusnakarcadia.com)  |
+| Serra Hyundai  | WordPress, PHP | Hyundai dealership with a clean design and easy-to-navigate interface. | [serrahyundai.com](https://www.serrahyundai.com) |
+| Southern Acura | WordPress, PHP | A modern Acura dealership website with integrated services.  | [southernacuranewportnews.com](https://www.southernacuranewportnews.com) |
+| Southside Kia  | WordPress, PHP | Kia dealership site with a modern UI and functional features. | [southsidekiajax.com](https://www.southsidekiajax.com)|
+| Stateline Maserati | WordPress, PHP | Maserati site with sleek design and enhanced user experience.  | [statelinemaserati.com](https://www.statelinemaserati.com) |
+| Subaru BR  | WordPress, PHP | Subaru dealership site with integrated features for easy navigation.| [subarubr.com](https://www.subarubr.com)|
+| Subaru of Macon| WordPress, PHP | A clean and functional Subaru dealership website.  | [subaruofmacon.com](https://www.subaruofmacon.com)  |
+| Timbertown HD  | WordPress, PHP | Harley-Davidson dealership site with clean and engaging visuals.| [timbertownhd.com](https://www.timbertownhd.com) |
+| Toyota Merrillville| WordPress, PHP | A modern and mobile-responsive Toyota dealership website.| [toyotamerrillville.com](https://www.toyotamerrillville.com) |
+| Toyota San Luis Obispo  | WordPress, PHP | Toyota dealership with sleek design and modern features. | [toyotaslo.com](https://www.toyotaslo.com) |
+| Valenti Audi | WordPress, PHP | Audi dealership with a modern design and emphasis on lead conversion.  | [valentiaudi.com](https://www.valentiaudi.com)  |
+| Waconia Ford | WordPress, PHP | Ford dealership site with user-friendly design and easy-to-use features. | [waconiaford.com](https://www.waconiaford.com)  |
+| Wallingford Buick GMC | WordPress, PHP | Buick GMC dealership with a focus on modern visuals and easy navigation. | [wallingfordbuickgmc.com](https://www.wallingfordbuickgmc.com)  |
+| Wilkins Toyota | WordPress, PHP | Toyota dealership website with sleek visuals and responsive design. | [wilkinstoyota.com](https://www.wilkinstoyota.com)  |
 
 ## Books read
 
