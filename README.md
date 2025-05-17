@@ -89,6 +89,7 @@ TECHNICAL SKILLS
 | BMW of Fort Lauderdale  | WordPress, PHP | A site focusing on BMW vehicles with great user experience and details. | [bmwoffortlauderdale.com](https://www.bmwoffortlauderdale.com) |
 | Baron MINI | WordPress, PHP | Dedicated to the MINI brand with an emphasis on inventory management.| [baronmini.com](https://www.baronmini.com) |
 | Biggers Mitsubishi | WordPress, PHP | Car dealership site with a modern UI, focusing on Mitsubishi models. | [biggersmitsubishi.com](https://www.biggersmitsubishi.com) |
+| Bohn Toyota | WordPress, PHP | Toyota dealership website with sleek visuals and responsive design. | [bohntoyota.com](https://www.bohntoyota.com)  |
 | Bosak Toyota | WordPress, PHP | Professional car dealership website with easy navigation for Toyota cars. | [bosaktoyotachesterton.com](https://www.bosaktoyotachesterton.com)  |
 | Capital Chevrolet | WordPress, PHP | A clean and modern website for Chevrolet cars, optimized for conversions. | [capitalchev.ca](https://www.capitalchev.ca) |
 | Central Maine Toyota | WordPress, PHP | A straightforward site dedicated to Toyota models with integrated inventory. | [cmtoy.com](https://www.cmtoy.com) |
@@ -143,7 +144,6 @@ TECHNICAL SKILLS
 | Valenti Audi | WordPress, PHP | Audi dealership with a modern design and emphasis on lead conversion.  | [valentiaudi.com](https://www.valentiaudi.com)  |
 | Waconia Ford | WordPress, PHP | Ford dealership site with user-friendly design and easy-to-use features. | [waconiaford.com](https://www.waconiaford.com)  |
 | Wallingford Buick GMC | WordPress, PHP | Buick GMC dealership with a focus on modern visuals and easy navigation. | [wallingfordbuickgmc.com](https://www.wallingfordbuickgmc.com)  |
-| Wilkins Toyota | WordPress, PHP | Toyota dealership website with sleek visuals and responsive design. | [wilkinstoyota.com](https://www.wilkinstoyota.com)  |
 
 ## Books read
 
