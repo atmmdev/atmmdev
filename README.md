@@ -26,14 +26,14 @@ TECHNICAL SKILLS
  title="AWS Started" 
  width="100px"
  style="padding:10px" 
- src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" 
+ src="https://atmm.dev/badges/aws-getting-started.png" 
   />](https://www.credly.com/badges/8cc91042-b54d-467d-a966-de3767aac5fd)
 [<img 
  alt="AWS Cloud Computing"
  title="AWS Cloud Computing" 
  width="100px"
  style="padding:10px" 
- src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" 
+ src="https://atmm.dev/badges/aws-cloud-computing.png" 
   />](https://www.apollographql.com/tutorials/certifications/d8fa4b79-d619-4f9d-9e9c-f76bab9477cf)
 [<img 
  alt="Apollo GraphQL"
