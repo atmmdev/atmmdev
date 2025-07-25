@@ -21,27 +21,41 @@ TECHNICAL SKILLS
 
 ## Certifications
 
-<img 
- alt="HTML"
- title="HTML" 
+[<img 
+ alt="AWS Started"
+ title="AWS Started" 
+ width="100px"
+ style="padding:10px" 
+ src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" 
+  />](https://www.credly.com/badges/8cc91042-b54d-467d-a966-de3767aac5fd)
+[<img 
+ alt="AWS Cloud Computing"
+ title="AWS Cloud Computing" 
+ width="100px"
+ style="padding:10px" 
+ src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" 
+  />](https://www.apollographql.com/tutorials/certifications/d8fa4b79-d619-4f9d-9e9c-f76bab9477cf)
+[<img 
+ alt="Apollo GraphQL"
+ title="Apollo GraphQL" 
  width="100px"
  style="padding:10px" 
  src="https://atmm.dev/badges/apollo-graphql.png" 
-  />
-<img 
- alt="HTML"
- title="HTML" 
+  />](https://www.apollographql.com/tutorials/certifications/d8fa4b79-d619-4f9d-9e9c-f76bab9477cf)
+[<img 
+ alt="Git Foundations"
+ title="Git Foundations" 
  width="100px"
  style="padding:10px" 
  src="https://atmm.dev/badges/git-foundations.png" 
-  />
-<img 
- alt="HTML"
- title="HTML" 
+  />](https://www.credly.com/badges/1218541d-013b-4ff7-8845-586a38d4498e/print)
+[<img 
+ alt="Salesforce Associate"
+ title="Salesforce Associate" 
  width="100px"
  style="padding:10px" 
  src="https://atmm.dev/badges/salesforce-associate.png" 
-  />
+  />](https://www.salesforce.com/trailblazer/profile)
 
 ## Training Certifications
 
