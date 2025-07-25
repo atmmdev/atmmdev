@@ -34,7 +34,7 @@ TECHNICAL SKILLS
  width="100px"
  style="padding:10px" 
  src="https://atmm.dev/badges/aws-cloud-computing.png" 
-  />](https://www.apollographql.com/tutorials/certifications/d8fa4b79-d619-4f9d-9e9c-f76bab9477cf)
+  />](https://www.credly.com/badges/1b8eda7e-1806-46b3-90a2-565e8f4b296bf)
 [<img 
  alt="Apollo GraphQL"
  title="Apollo GraphQL" 
