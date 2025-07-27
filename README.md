@@ -3,21 +3,34 @@
   <h1>Anderson Toledo Martins Moreira</h1>
 </div>
 
-My name is Anderson Martins, and my professional journey started in 2000, and throughout these years, I have worked in different roles such as UI Specialist Designer, Frontend Software Developer, PHP FullStack Developer, and WordPress Developer. I have contributed to more than 100 projects across industries like communication, education, fintech, healthcare, e-commerce, and government services. I’ve had the privilege of working with leading global organizations, including BairesDev, Globant, IBM, British Petroleum, Cars.com, and DealerInspire.
+My name is Anderson Martins, I am based in Rio de Janeiro, Brazil, and truly appreciate the opportunity to share my profile. I am highly interested in international opportunities and open to both remote work and relocation. I do not currently hold a work visa to be employed by companies outside Brazil. However, if relocation becomes necessary in the future, I would sincerely welcome any sponsorship or support your company may provide.
 
-During these years, I focused on designing and developing responsive user interfaces for websites and web applications. My core toolkit includes HTML5, CSS3 (Sass, Bootstrap, Tailwind CSS), JavaScript, Figma, Photoshop, and Illustrator. I also have experience in custom WordPress development, creating themes and plugins from scratch using tools such as Advanced Custom Fields (ACF), WordPress Hooks (Actions & Filters), Custom Post Types (CTPs), WP REST API, and visual page builders like Elementor, Beaver Builder, WP Bakery, Oxygen, and Divi.
+I began my professional journey in 2000 and have since held various roles, including UI Specialist, Frontend Developer, Fullstack PHP Developer, and WordPress Developer. Over the years, I have contributed to more than 100 projects across industries such as communication, education, fintech, healthcare, e-commerce, and government services. I’ve had the privilege of collaborating with renowned global companies such as BairesDev, Globant, IBM, CNN Brazil, British Petroleum, Cars.com, and DealerInspire.
 
-In 2014, I expanded into advanced Frontend engineering, deepening my expertise in JavaScript and frameworks like React.js and Next.js. I have developed scalable solutions and data-driven dashboards using modern architectural patterns, including Component-based Architecture with React.js, Server-side Rendering (SSR) and Static Site Generation (SSG) with Next.js, Headless WordPress with GraphQL, and the JAMstack model. Additionally, I have foundational experience with the MERN stack (MongoDB, Express.js, React.js, Node.js), for building RESTful APIs and fullstack web applications in JavaScript. My skill set also includes performance optimization, responsive design (using Flexbox, CSS Grid Layout, and media queries), API integration, and Test-Driven Development (TDD).
+My primary focus has been on building responsive, user-centric interfaces for web applications and websites. My core skill set includes HTML5, CSS3 (Sass, Bootstrap, Tailwind CSS), JavaScript, Figma, Photoshop, and Illustrator. I also have extensive experience in custom WordPress development, including creating themes and plugins from scratch using Advanced Custom Fields (ACF), Hooks (Actions & Filters), Custom Post Types (CPTs), WP REST API, and visual page builders such as Elementor, Beaver Builder, WPBakery, Oxygen, and Divi.
 
-Currently, I am focused on becoming a Frontend Staff Engineer within the next 5 years. To support this goal, I am expanding my expertise in TypeScript, GraphQL, Docker, Nest.js, Laravel, design systems, clean architecture, S.O.L.I.D principles, and CI/CD pipelines. I am also preparing for AWS certifications (Cloud Practitioner, Developer Associate, and Solutions Architect Associate) to strengthen my skills in cloud-native solutions and infrastructure.
+Since 2014, I’ve focused on advanced frontend engineering with modern JavaScript frameworks such as React.js and Next.js. I’ve built scalable solutions and data-driven dashboards using patterns like Component-Based Architecture, Server-Side Rendering (SSR), Static Site Generation (SSG), Headless WordPress with GraphQL, and JAMstack. Additionally, I have experience with the MERN stack (MongoDB, Express.js, React.js, Node.js), working on Fullstack JavaScript applications and building scalable RESTful APIs. My skill, also includes performance optimization, responsive design (Flexbox, CSS Grid, media queries), API integrations, and Test-Driven Development (TDD).
 
-I thank you for your time and consideration to read this introduction. I invite you to check out my portfolio at: [ATMM.dev](https://www.atmm.dev). I look forward to hearing from you soon to discuss anything that you want. Here is my contacts: [Whatsapp](https://bit.ly/3RoY44X) and [E-mail](mailto:atmmoreira.rj@gmail.com). Here you can find some projects: [Github](https://github.com/atmmdev) and [LinkedIn](https://www.linkedin.com/in/atmmoreira).
+Currently, my professional goal is to become a Frontend Staff Engineer within the next five years. I am enhancing my expertise in TypeScript, GraphQL, Docker, Nest.js, Laravel, Design Systems, Domain-Driven Design (DDD), Clean Architecture, and S.O.L.I.D principles. And also, I am currently preparing for AWS certifications — including Cloud Practitioner, Developer Associate, and Solutions Architect Associate — to strengthen my understanding of cloud-native infrastructure, architecture, and scalable services.
 
-TECHNICAL SKILLS
+Thank you for your time and consideration.\
+You can view my portfolio and download my résumé in PDF at: https://www.atmm.dev
 
-- 15+ years: HTML5, CSS3 (SASS, Bootstrap, TailwindCSS), Media Queries, Grid Layout, Flexbox, Git, GitHub, Bitbucket, VSCode, JIRA, Confluence, ClickUp, WordPress, Figma, Photoshop, and Illustrator.
-- 5+ years: JavaScript (ES6+), jQuery, Axios, FetchAPI, React.js, React-Router, ContextAPI, Redux-Toolkit, PHP, MongoDB, MySQL, RESTful API’s, Docker, Vite, Scrum, and Kanban.
-- 1 to 3 years: HTMX, Next.js, Zustand, Node.js, Nest.js, Express.js, TypeScript, Laravel, GraphQL, AWS, Jest, React Testing Library, and Zapier.
+I would be glad to discuss how I can contribute to your team.\
+Feel free to reach out using the contacts below:
+
+- WhatsApp: [https://bit.ly/3RoY44X](https://bit.ly/3RoY44X)
+- Email: atmmoreira.rj@gmail.com
+- GitHub: [https://github.com/atmmdev](https://github.com/atmmdev)
+- LinkedIn: [https://www.linkedin.com/in/atmmoreira](https://www.linkedin.com/in/atmmoreira)
+
+**TECNICAL SKILLS**
+
+- **15+ years**: HTML5, CSS3 (SASS, Bootstrap, TailwindCSS), Media Queries, Grid Layout, Flexbox, Git, GitHub, Bitbucket, VSCode, JIRA, Confluence, ClickUp, WordPress, Figma, Photoshop, and Illustrator.
+- **5+ years**: JavaScript (ES6+), jQuery, Axios, Fetch API, React.js, React Router, Context API, Redux Toolkit, PHP, MySQL, MongoDB, RESTful APIs, Docker, Vite, Scrum, and Kanban.
+- **1–3 years**: HTMX, Next.js, Zustand, Node.js, Nest.js, Express.js, TypeScript, Laravel, GraphQL, AWS, Jest, React Testing Library, and Zapier.
+
+**Salary Expectation**: USD $3,500–$5,500/month (Negotiable)
 
 ## Certifications
 
@@ -76,13 +89,11 @@ TECHNICAL SKILLS
 - [Vue - Coodesh](https://coodesh.com/share/certificate/a8c57770-171c-11ed-9234-239218c1c36a)
 - [Web Frontend Developer](https://atmm.dev/docs/frontend-developer.pdf)
 
-## Books read
-
-- Coming soon
-
 ## Projects
 
-### Frontend Projects - JavaScript, Sass/Scss, Bootstrap, Tailwind CSS, and React (Incl. Next.js)
+### Frontend Projects
+
+**Technologies:** JavaScript, Sass/Scss, Bootstrap, Tailwind CSS, and React (Incl. Next.js)
 
 | Project                       | Stack                                                                | Descriptions                                                                                                         | Link                                                                                                                          |
 | ----------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -97,7 +108,9 @@ TECHNICAL SKILLS
 
 <br />
 
-### Fullstack Projects - PHP, Laravel, and WordPress (Gutenberg Blocks, Elementor, Beaver Builder, WP Bakery, Oxygen, and Divi).
+### Fullstack Projects
+
+**Technologies:** PHP, Laravel, and WordPress (Gutenberg Blocks, Elementor, Beaver Builder, WP Bakery, Oxygen, and Divi).
 
 | Client                    | Stack                                 | Description                                                                                                    | Link                                                                       |
 | ------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
