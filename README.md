@@ -19,7 +19,7 @@ You can view my portfolio and download my résumé in PDF at: https://www.atmm.d
 I would be glad to discuss how I can contribute to your team.\
 Feel free to reach out using the contacts below:
 
-- WhatsApp: [https://bit.ly/3RoY44X](https://bit.ly/3RoY44X)
+- WhatsApp: [+55 21 9.9289.0362](https://api.whatsapp.com/send?phone=5521992890362)
 - Email: atmmoreira.rj@gmail.com
 - GitHub: [https://github.com/atmmdev](https://github.com/atmmdev)
 - LinkedIn: [https://www.linkedin.com/in/atmmoreira](https://www.linkedin.com/in/atmmoreira)
