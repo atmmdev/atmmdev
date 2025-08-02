@@ -15,12 +15,15 @@ Currently, my professional goal is to become a Staff Engineer within the next fi
 
 Thank you for your time and consideration. You can view my portfolio and download my résumé in PDF at: [https://www.atmm.dev](https://www.atmm.dev). I would be glad to discuss how I can contribute to your team. Feel free to reach out using the contacts below:
 
-- WhatsApp: [+55 21 9.9289.0362](https://api.whatsapp.com/send?phone=5521992890362)
-- Email: atmmoreira.rj@gmail.com
-- GitHub: [https://github.com/atmmdev](https://github.com/atmmdev)
-- LinkedIn: [https://www.linkedin.com/in/atmmoreira](https://www.linkedin.com/in/atmmoreira)
+<div align="center">
 
-**TECNICAL SKILLS**
+[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-blue?color=3498db&labelColor=2980b9&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/atmmoreira)
+[![Gmail](https://img.shields.io/badge/%20-atmmoreira.rj@gmail.com-black?color=c0392b&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:atmmoreira.rj@gmail.com?subject=From%20GitHub&cc=atmmoreira.rj@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Phone](https://img.shields.io/badge/WhatsApp-+55_(21)_9.9289.0362-black?color=2ecc71&labelColor=27ae60&logoColor=ffffff)](https://api.whatsapp.com/send?phone=5521992890362)
+
+</div>
+
+**TECHNICAL SKILLS**
 
 - **15+ years**: HTML5, CSS3 (SASS, Bootstrap, TailwindCSS), Media Queries, Grid Layout, Flexbox, Git, GitHub, Bitbucket, VSCode, JIRA, Confluence, ClickUp, WordPress, Figma, Photoshop, and Illustrator.
 - **5+ years**: JavaScript (ES6+), jQuery, Axios, Fetch API, React.js, React Router, Context API, Redux Toolkit, PHP, MySQL, MongoDB, RESTful APIs, Docker, Vite, Scrum, and Kanban.
