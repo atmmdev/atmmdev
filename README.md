@@ -3,7 +3,14 @@
   <h1>Anderson Toledo Martins Moreira</h1>
 </div>
 
-My name is Anderson Martins,  I am based in Rio de Janeiro, Brazil, and truly appreciate the opportunity to share my profile. I am highly interested in international opportunities and open to both remote work and relocation. I do not currently hold a work visa to be employed by companies outside of Brazil. However, if relocation becomes necessary in the future, I would sincerely welcome any sponsorship or support your company may provide.
+<div align="center">
+
+[![Download PDF](https://img.shields.io/badge/Curriculum-US-blue?logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/document/d/1I8T4Mkb61NsTKN14ZbT1mnQKAc9LqiiPtgrYf9ayH1c/edit?usp=sharing)
+[![Download PDF](https://img.shields.io/badge/Currículo-PT_br-darkgreen?logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/document/d/1vnFlRP3myxexgHk5Y6XaCKQGETPQwCygPZqGSblwCXg/edit?usp=sharing)
+
+</div>
+
+My name is Anderson Martins, I am based in Rio de Janeiro, Brazil, and truly appreciate the opportunity to share my profile. I am highly interested in international opportunities and open to both remote work and relocation. I do not currently hold a work visa to be employed by companies outside of Brazil. However, if relocation becomes necessary in the future, I would sincerely welcome any sponsorship or support your company may provide.
 
 I began my professional journey in 2000 and have since held various roles, including UI Specialist Designer, Frontend Developer, Fullstack PHP Developer, and WordPress Developer. Over the years, I have contributed to more than 100 projects across industries such as communication, education, fintech, healthcare, e-commerce, and government services. I’ve had the privilege of collaborating with renowned global companies such as BairesDev, Globant, IBM, CNN Brazil, British Petroleum, Cars.com, and DealerInspire.
 
@@ -11,7 +18,7 @@ My primary focus has been on building responsive, user-centric interfaces for we
 
 Since 2014, I’ve focused on advanced frontend engineering with modern JavaScript frameworks such as React.js and Next.js. I’ve built scalable solutions and data-driven dashboards using patterns like Component-Based Architecture, Server-Side Rendering (SSR), Static Site Generation (SSG), Headless WordPress with GraphQL, and JAMstack. Additionally, I have experience with the MERN stack (MongoDB, Express.js, React.js, Node.js), working on Fullstack JavaScript applications and building scalable RESTful APIs. My skills also include performance optimization, responsive design (Flexbox, CSS Grid, media queries), API integrations, and Test-Driven Development (TDD).
 
-Currently, my professional goal is to become a Staff Engineer within the next five years. I am enhancing my expertise in TypeScript, GraphQL, Docker, Nest.js, C# and ASP.NET Core, Design Systems, Domain-Driven Design (DDD), Clean Code, Clean Architecture, and S.O.L.I.D principles.  I hold GraphQL Developer (Associate) and GitHub Foundations certifications, and I'm preparing for AWS Certifications — including Cloud Practitioner, Developer Associate, and Solutions Architect Associate.
+Currently, my professional goal is to become a Staff Engineer within the next five years. I am enhancing my expertise in TypeScript, GraphQL, Docker, Nest.js, C# and ASP.NET Core, Design Systems, Domain-Driven Design (DDD), Clean Code, Clean Architecture, and S.O.L.I.D principles. I hold GraphQL Developer (Associate) and GitHub Foundations certifications, and I'm preparing for AWS Certifications — including Cloud Practitioner, Developer Associate, and Solutions Architect Associate.
 
 Thank you for your time and consideration. You can view my portfolio and download my résumé in PDF at: [https://www.atmm.dev](https://www.atmm.dev). I would be glad to discuss how I can contribute to your team. Feel free to reach out using the contacts below:
 
@@ -19,7 +26,7 @@ Thank you for your time and consideration. You can view my portfolio and downloa
 
 [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-blue?color=3498db&labelColor=2980b9&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/atmmoreira)
 [![Gmail](https://img.shields.io/badge/%20-atmmoreira.rj@gmail.com-black?color=c0392b&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:atmmoreira.rj@gmail.com?subject=From%20GitHub&cc=atmmoreira.rj@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Phone](https://img.shields.io/badge/WhatsApp-+55_(21)_9.9289.0362-black?color=2ecc71&labelColor=27ae60&logoColor=ffffff)](https://api.whatsapp.com/send?phone=5521992890362)
+[![Phone](<https://img.shields.io/badge/-+55_(21)_9.9289.0362-black?color=2ecc71&labelColor=27ae60&logo=whatsapp&logoColor=ffffff>)](https://api.whatsapp.com/send?phone=5521992890362)
 
 </div>
 
@@ -27,7 +34,7 @@ Thank you for your time and consideration. You can view my portfolio and downloa
 
 - **15+ years**: HTML5, CSS3 (SASS, Bootstrap, TailwindCSS), Media Queries, Grid Layout, Flexbox, Git, GitHub, Bitbucket, VSCode, JIRA, Confluence, ClickUp, WordPress, Figma, Photoshop, and Illustrator.
 - **5+ years**: JavaScript (ES6+), jQuery, Axios, Fetch API, React.js, React Router, Context API, Redux Toolkit, PHP, MySQL, MongoDB, RESTful APIs, Docker, Vite, Scrum, and Kanban.
-- **1–3 years**: HTMX, Next.js, Zustand, C# and ASP.NET Core, Node.js, Nest.js, Express.js, TypeScript, GraphQL,  AWS (S3, Lambda, EC2, RDS), Jest, React Testing Library, and Zapier.
+- **1–3 years**: HTMX, Next.js, Zustand, C# and ASP.NET Core, Node.js, Nest.js, Express.js, TypeScript, GraphQL, AWS (S3, Lambda, EC2, RDS), Jest, React Testing Library, and Zapier.
 
 ## Certifications
 
