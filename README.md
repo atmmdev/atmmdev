@@ -26,9 +26,9 @@ I would be glad to discuss how my skills and experience can add value to your te
 
 **TECHNICAL SKILLS**
 
-- **15+ years**: HTML5, CSS3 (SASS, Bootstrap, TailwindCSS), Media Queries, Grid Layout, Flexbox, Git, GitHub, Bitbucket, VSCode, JIRA, Confluence, ClickUp, WordPress, Figma, Photoshop, and Illustrator.
-- **5+ years**: JavaScript (ES6+), jQuery, Axios, Fetch API, React.js, React Router, Context API, Redux Toolkit, PHP, MySQL, MongoDB, RESTful APIs, Docker, Vite, Scrum, and Kanban.
-- **1–3 years**: HTMX, Next.js, Zustand, C# and ASP.NET Core, Node.js, Nest.js, Express.js, TypeScript, GraphQL, AWS (S3, Lambda, EC2, RDS), Jest, React Testing Library, and Zapier.
+- **15+ years**: HTML5, CSS3 (SASS, Bootstrap, TailwindCSS), Media Queries, Grid Layout, Flexbox, Git, GitHub, Bitbucket, WordPress, Figma, Photoshop, and Illustrator.
+- **5+ years**: JavaScript (ES6+), jQuery, React.js, React Router, Context API, Redux Toolkit, PHP, Laravel, MySQL, MongoDB, RESTful APIs, and Docker.
+- **1–3 years**: HTMX, Next.js, Zustand, Node.js, Nest.js, Express.js, TypeScript, GraphQL, AWS (S3, Lambda, EC2, RDS), Jest, React Testing Library, Python, N8N and Zapier.
 
 ## Certifications
 
