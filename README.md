@@ -27,13 +27,13 @@ My core expertise is centered around **TypeScript, React, Next.js, and Node.js**
 
 ## **Core Technical Stack**
 
-- **Frontend:** TypeScript, JavaScript, React, Next.js, Tailwind CSS
-- **Backend:** Node.js, NestJS, Express
-- **APIs & Data:** REST, GraphQL
-- **Testing:** Jest, React Testing Library
-- **Cloud & DevOps:** Docker, GitHub Actions, AWS
-- **Enterprise Exposure:** C#, ASP.NET Core
-- **Automation & Productivity:** AI-assisted development, N8N, Zapier
+- **Stack (Primary):** JavaScript, TypeScript, React.js, Next.js (SSR, SSG, App Router), Node.js, Nest.js, Express.js.
+- **APIs & Data:** RESTful APIs, GraphQL.
+- **Testing:** Jest, React Testing Library, Test-Driven Development (TDD).
+- **Backend & Databases:** C#, ASP.NET Core (Web APIs), SQL Server, Entity Framework, MongoDB, MySQL.
+- **Automation & AI integration:** OpenAI APIs, N8N, Zapier, Python (automation scripts and integrations).
+- **DevOps & Cloud:** Docker, GitHub Actions, AWS (S3, EC2, Lambda, RDS).
+- **Legacy & CMS (Enterprise Modernization, Integrations & Support):** PHP, Laravel, WordPress.
 
 ## **Certifications**
 
