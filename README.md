@@ -27,11 +27,11 @@ My core expertise is centered around **TypeScript, React, Next.js, and Node.js**
 
 ## **Core Technical Stack**
 
-- **Stack (Primary):** JavaScript, TypeScript, React.js, Next.js (SSR, SSG, App Router), Node.js, Nest.js, Express.js.
+- **Stack (Primary):** HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js (SSR, SSG, App Router), Node.js, Nest.js, Express.js.
 - **APIs & Data:** RESTful APIs, GraphQL.
 - **Testing:** Jest, React Testing Library, Test-Driven Development (TDD).
 - **Backend & Databases:** C#, ASP.NET Core (Web APIs), SQL Server, Entity Framework, MongoDB, MySQL.
-- **Automation & AI integration:** OpenAI APIs, N8N, Zapier, Python (automation scripts and integrations).
+- **Automation & AI integration:** Cursor, Windsurf, Github Copilot, OpenAI APIs, N8N, Zapier, Python (automation scripts and integrations).
 - **DevOps & Cloud:** Docker, GitHub Actions, AWS (S3, EC2, Lambda, RDS).
 - **Legacy & CMS (Enterprise Modernization, Integrations & Support):** PHP, Laravel, WordPress.
 
@@ -46,17 +46,17 @@ My core expertise is centered around **TypeScript, React, Next.js, and Node.js**
 
 Here are a few representative projects.
 
-- **VivaiTour** — Next.js, React, Node.js, TailWind CSS.
+- **VivaiTour** — Next.js, React.js, Node.js, Tailwind CSS.
 
   Travel platform with SEO optimizations and scalable frontend architecture.  
   https://www.vivaitour.com.br/
 
-- **House Marketplace** — React, Firebase, TailWind CSS.
+- **House Marketplace** — React.js, Firebase, Tailwind CSS.
 
   Full CRUD application with authentication and map integration.  
-  https://house-marketplace-react-eight.vercel.app/
+  https://house-marketplace-react-eight.vercel.app/ - Repository: https://github.com/atmmdev/house.marketplace.react
 
-- **GitHub Finder** — React, API Integration, TailWind CSS.
+- **GitHub Finder** — React.js, API Integration, Tailwind CSS.
 
   GitHub user and repository search using REST APIs.  
-  https://github-finder-react-zeta.vercel.app/
+  https://github-finder-react-zeta.vercel.app/ - Repository: https://github.com/atmmdev/github.finder.react
