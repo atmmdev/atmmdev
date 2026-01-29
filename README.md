@@ -13,7 +13,7 @@
 
 Senior Frontend / Fullstack Engineer based in Rio de Janeiro, Brazil, open to remote opportunities and global relocation.
 
-I have over **15 years of experience** building scalable, high-performance web applications across fintech, healthcare, e-commerce, media, and enterprise environments. Throughout my career, I have collaborated with global companies such as **IBM, BairesDev, Globant, British Petroleum, CNN Brazil, Cars.com**, and others.
+I have over **15 years of experience** building scalable, high-performance web applications across communications, education, fintech, healthcare, e-commerce, and government services. Throughout my career, I have collaborated with global companies such as **IBM, BairesDev, Globant, British Petroleum, CNN Brazil, Cars.com**, and others.
 
 My core expertise is centered around **TypeScript, React, Next.js, and Node.js**, with a strong focus on frontend architecture, API integrations, performance optimization, and code quality. I also have **hands-on exposure to enterprise-oriented systems built with C# and ASP.NET Core**, as well as **AI-assisted development workflows** used as a productivity multiplier.
 
