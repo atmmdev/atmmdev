@@ -27,7 +27,7 @@ My core expertise is centered around **TypeScript, React, Next.js, and Node.js**
 
 ## **Core Technical Stack**
 
-- **Stack (Primary):** HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js (SSR, SSG, App Router), Node.js, Nest.js, Express.js.
+- **Stack (Primary):** HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, Nest.js, Express.js.
 - **APIs & Data:** RESTful APIs, GraphQL.
 - **Testing:** Jest, React Testing Library, Test-Driven Development (TDD).
 - **Backend & Databases:** C#, ASP.NET Core (Web APIs), SQL Server, Entity Framework, MongoDB, MySQL.
