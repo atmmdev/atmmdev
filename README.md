@@ -11,7 +11,7 @@
 
 </div>
 
-Senior Frontend / Fullstack Engineer based in Rio de Janeiro, Brazil, open to remote opportunities and global relocation.
+Frontend / Fullstack Engineer based in Rio de Janeiro, Brazil, open to remote opportunities and global relocation.
 
 I have over **15 years of experience** building scalable, high-performance web applications across communications, education, fintech, healthcare, e-commerce, and government services. Throughout my career, I have collaborated with global companies such as **IBM, BairesDev, Globant, British Petroleum, CNN Brazil, Cars.com**, and others.
 
