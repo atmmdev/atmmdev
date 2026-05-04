@@ -49,14 +49,14 @@ Here are a few representative projects.
 - **VivaiTour** — Next.js, React.js, Node.js, Tailwind CSS.
 
   Travel platform with SEO optimizations and scalable frontend architecture.  
-  https://www.vivaitour.com.br/
+  [Online](https://www.vivaitour.com.br/)
 
 - **House Marketplace** — React.js, Firebase, Tailwind CSS.
 
   Full CRUD application with authentication and map integration.  
-  https://house-marketplace-react-eight.vercel.app/ - Repository: https://github.com/atmmdev/house.marketplace.react
+  [Online](https://house-marketplace-react-eight.vercel.app/) - [Repository](https://github.com/atmmdev/house.marketplace.react) 
 
 - **GitHub Finder** — React.js, API Integration, Tailwind CSS.
 
   GitHub user and repository search using REST APIs.  
-  https://github-finder-react-zeta.vercel.app/ - Repository: https://github.com/atmmdev/github.finder.react
+  [Online](https://github-finder-react-zeta.vercel.app/) - [Repository](https://github.com/atmmdev/github.finder.react) 
