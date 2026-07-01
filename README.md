@@ -45,19 +45,52 @@ My core expertise is centered around **TypeScript, React, Next.js, and Node.js**
 
 ## **Featured Projects**
 
-Here are a few representative projects.
+- **TagVirtual** — NestJS, Next.js, AWS (ECS, SQS, S3), Itaú Pix.
 
-- **VivaiTour** — Next.js, React.js, Node.js, Tailwind CSS.
+  SaaS platform for virtual toll tag management with microservices architecture in a monorepo.
 
-  Travel platform with SEO optimizations and scalable frontend architecture.  
-  [Online](https://www.vivaitour.com.br/)
+  - Built full-stack SaaS with isolated Pix payments service, granular RBAC, MFA, and audit logs.
+  - Integrated AWS (ECS, ECR, S3, SQS) with automated deployment via Azure Pipelines and Docker.
+  - Implemented async processing with SQS, real-time WebSockets (Socket.io), and Elastic APM.
 
-- **House Marketplace** — React.js, Firebase, Tailwind CSS.
+  [Details](./projects/tagvirtual.md) · [Online](https://tagvirtual.com.br/)
 
-  Full CRUD application with authentication and map integration.  
-  [Online](https://house-marketplace-react-eight.vercel.app/) - [Repository](https://github.com/atmmdev/house.marketplace.react) 
+- **Afya Marketplace Ecosystem** — Medusa, Next.js, NestJS, Kafka, ArgoCD.
 
-- **GitHub Finder** — React.js, API Integration, Tailwind CSS.
+  Distributed marketplace for physicians: e-commerce core, financial integrations, and educational catalog sync.
 
-  GitHub user and repository search using REST APIs.  
-  [Online](https://github-finder-react-zeta.vercel.app/) - [Repository](https://github.com/atmmdev/github.finder.react) 
+  - Delivered distributed ecosystem with Medusa/Mercur core, Next.js frontends, and NestJS integration APIs.
+  - Implemented end-to-end corporate SSO (Logto/OIDC) with NextAuth and backend identity sync.
+  - Built resilient pipelines with Kafka, webhooks, idempotency, and GitOps deploy via ArgoCD/Helm.
+
+  [Details](./projects/afya.md) · [Online](https://institucional.afya.com.br/)
+
+- **ILLUMIA Customer Care Web** — Next.js 16, React 19, TypeScript, AWS Amplify.
+
+  Customer Care web platform for telecom, focused on performance, security, and scalable UX.
+
+  - Developed Customer Care app with Feature-First architecture, App Router, and auth middleware.
+  - Built JWT authentication with refresh token rotation and route protection.
+  - Delivered critical modules (Chat, service cancellation, reactivation, PQRS) integrated with BFF.
+
+  [Details](./projects/illumia.md) · [Online](https://www.directvla.com/ar/home)
+
+- **InvestNews CMS** — WordPress, Bedrock, PHP 8.2, Gutenberg.
+
+  Enterprise editorial platform for a high-volume financial news portal with custom content architecture.
+
+  - Built WordPress enterprise platform with 11 CPTs and 29 custom Gutenberg/ACF blocks.
+  - Integrated Yahoo Finance, CoinMarketCap, Dow Jones/WSJ, and marketing automations.
+  - Created secure REST APIs (JWT, capability checks) with structured logging and security test suite.
+
+  [Details](./projects/investnews.md) · [Online](https://investnews.com.br/)
+
+- **CVMBot** — Python, FastAPI, GPT-4o, AWS Bedrock, React.
+
+  Editorial automation platform that transforms CVM Material Facts into AI-assisted published content.
+
+  - Built CVM → AI → publishing pipeline with Selenium, PyMuPDF, GPT-4o, and Claude quality scoring.
+  - Developed FastAPI admin API with prompt governance (versioning, deploy, rollback) and audit trail.
+  - Integrated WordPress REST API, PostgreSQL, and WhatsApp distribution channels.
+
+  [Details](./projects/cvmbot.md)
