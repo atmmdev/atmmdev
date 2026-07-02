@@ -11,11 +11,7 @@
 
 </div>
 
-**Fullstack Engineer** based in Rio de Janeiro, Brazil, open to remote and international relocation.
-
-**Frontend-leaning profile (~60/40) with 15+ years** building scalable web products for global companies including **IBM, BairesDev, Globant, British Petroleum, CNN Brasil, Cars.com.** Hands-on in **React, Next.js, TypeScript** and frontend architecture (performance, design systems, testing), with solid backend delivery in **Node.js, NestJS, REST/GraphQL APIs, auth, and cloud integrations.**
-
-Experienced across fintech, healthcare, e-commerce, media, and government services. Pragmatic approach to **Clean Architecture, DDD, and CI/CD**. Exposure to **C# / ASP.NET Core** and **AI-powered** product workflows.
+**Fullstack Engineer** based in Rio de Janeiro, Brazil, open to remote and international relocation. **Frontend-leaning profile (~60/40) with 15+ years** building scalable web products for global companies including **IBM, BairesDev, Globant, British Petroleum, CNN Brasil, Cars.com.** Hands-on in **React, Next.js, TypeScript** and frontend architecture (performance, design systems, testing), with solid backend delivery in **Node.js, NestJS, REST/GraphQL APIs, auth, and cloud integrations.** Experienced across fintech, healthcare, e-commerce, media, and government services. Pragmatic approach to **Clean Architecture, DDD, and CI/CD**. Exposure to **C# / ASP.NET Core** and **AI-powered** product workflows.
 
 <div align="center">
 
