@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./favicon.png" />
   <h1>Anderson Toledo Martins Moreira</h1>
-  <p><strong>Fullstack Engineer</strong> · React, Next.js, TypeScript, Node, NestJS</p>
+  <p><strong>Fullstack Engineer (frontend-leaning)</strong> · TypeScript, React, Next.js, Node.js, NestJS · AI-assisted Development</p>
 </div>
 
 <div align="center">
@@ -40,6 +40,15 @@
 - AWS Developer Associate (in progress)
 
 ## **Featured Projects**
+
+- **Portal Florestal** — NestJS, Next.js, GCP (Cloud Run, BigQuery, Pub/Sub), Datadog.
+
+  Corporate forestry operations platform with modular backend, plugin-oriented frontend, and cloud-native GCP integrations.
+  - Led full-stack delivery with NestJS domain modules and Next.js plugin architecture for operational forestry tools.
+  - Built GCP integrations (Cloud Run, Cloud SQL, GCS, BigQuery, Firestore, Pub/Sub) with Azure Pipelines CI/CD.
+  - Implemented end-to-end security and observability with SAML SSO, OpenTelemetry, and Datadog (APM, Logs, RUM).
+
+  [Details](./projects/portalflorestal.md) · [Online](https://portalflorestal.suzanonet.com.br/login)
 
 - **TagVirtual** — NestJS, Next.js, AWS (ECS, SQS, S3), Itaú Pix.
 
