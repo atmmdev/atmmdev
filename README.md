@@ -94,3 +94,23 @@
   - Integrated WordPress REST API, PostgreSQL, and WhatsApp distribution channels.
 
   [Details](./projects/cvmbot.md)
+
+## **Personal Projects**
+
+- **Soccer Analytics do ATM** — NestJS 11, Prisma/PostgreSQL, Next.js 15/React 19, pnpm monorepo.
+
+  Personal football intelligence platform: data ingest, probabilistic analysis, tickets, bankroll, and study history.
+  - Built monorepo with NestJS domain engines and Next.js thin-client dashboard (TanStack Query + Zustand).
+  - Implemented API-Football sync pipeline plus Poisson/EV analysis with BET/WATCH/SKIP recommendations.
+  - Delivered ticket builder (Kelly-like stake, correlation checks), bankroll ROI/yield tracking, and Bet365 PDF import for backtesting.
+
+  [Details](./projects/soccer-analytics.md) · [Repository](https://github.com/atmmdev/soccer.analytics)
+
+- **Soccer Predictions** — Next.js 16, NestJS 11, Prisma 7/MySQL, PWA, Hostinger.
+
+  Full-stack football pools platform with multi-provider auth, fixture sync, configurable scoring, and rankings.
+  - Built monorepo with Feature-First Next.js frontend and modular NestJS (DDD) backend, deployed as a unified Hostinger process.
+  - Implemented JWT + Google/Instagram OAuth, email verification via Resend, and role-based route protection.
+  - Delivered football-data.org sync jobs, configurable per-pool scoring engine, predictions with cutoff, rankings, and PWA.
+
+  [Details](./projects/soccer-predictions.md) · [Online](https://soccer.atmm.dev) · [Repository](https://github.com/atmmdev/soccer.predictions)
