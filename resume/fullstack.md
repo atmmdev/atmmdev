@@ -21,10 +21,10 @@ Delivered products for IBM, BairesDev, Globant, and clients such as British Petr
 
 - **Frontend:** JavaScript, TypeScript, React, Next.js (SSR, SSG, App Router), Tailwind CSS, Design Systems
 - **Backend:** Node.js, NestJS, Express.js, REST APIs, GraphQL
-- **Data:** PostgreSQL, MySQL, MongoDB, SQL Server
-- **Quality:** Jest, React Testing Library, TDD practices
-- **Platform:** Docker, GitHub Actions, Azure Pipelines, AWS application services
-- **Also:** PHP, Laravel, WordPress, Python/FastAPI, OpenAI APIs, AWS Bedrock, C# / ASP.NET Core (complementary), N8N, Zapier
+- **Database:** PostgreSQL, MySQL, MongoDB, SQL Server
+- **Testing:** Jest, React Testing Library, TDD practices
+- **Platform:** Docker, GitHub Actions, AWS (S3, EC2, Lambda, RDS)
+- **Also:** PHP, Laravel, WordPress, Python/FastAPI, OpenAI APIs, AWS Bedrock, C# / ASP.NET Core, N8N, Zapier
 
 ---
 

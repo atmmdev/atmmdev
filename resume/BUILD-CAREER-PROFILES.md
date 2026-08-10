@@ -15,23 +15,23 @@ Primary stack: React · Next.js · TypeScript · Node.js · NestJS
 
 ## Resume versions
 
-| File | Target roles |
-| --- | --- |
-| `resume/fullstack.md` | Fullstack / Node+Next / Software Engineer |
-| `resume/frontend.md` | React/Next Engineering / UI Frontend |
-| `resume/ai.md` | AI-powered applications (not ML Engineer) |
-| `resume/dotnet.md` | React + C#/ASP.NET (C# complementary) |
-| `resume/custom/<company-role>.md` | Job-specific adaptations |
+| File                              | Target roles                              |
+| --------------------------------- | ----------------------------------------- |
+| `resume/fullstack.md`             | Fullstack / Node+Next / Software Engineer |
+| `resume/frontend.md`              | React/Next Engineering / UI Frontend      |
+| `resume/ai.md`                    | AI-powered applications (not ML Engineer) |
+| `resume/dotnet.md`                | React + C#/ASP.NET (C# complementary)     |
+| `resume/custom/<company-role>.md` | Job-specific adaptations                  |
 
 ## Supporting materials
 
-| File | Purpose |
-| --- | --- |
-| `resume/linkedin.md` | LinkedIn draft (broader than one CV) |
-| `resume/portfolio.md` | Portfolio structure / project index |
-| `resume/cover-letter.md` | Short adaptable templates |
-| `resume/technical-highlights.md` | Interview & application ammo |
-| `resume/interview-notes.md` | Q&A grounded in documented experience |
+| File                             | Purpose                               |
+| -------------------------------- | ------------------------------------- |
+| `resume/linkedin.md`             | LinkedIn draft (broader than one CV)  |
+| `resume/portfolio.md`            | Portfolio structure / project index   |
+| `resume/cover-letter.md`         | Short adaptable templates             |
+| `resume/technical-highlights.md` | Interview & application ammo          |
+| `resume/interview-notes.md`      | Q&A grounded in documented experience |
 
 ## Golden rules
 
@@ -46,12 +46,12 @@ Primary stack: React · Next.js · TypeScript · Node.js · NestJS
 
 ## Execution phases
 
-1. Audit master + projects + references  
-2. Approve Career Model  
-3. Project documentation  
-4. Resume generation  
-5. LinkedIn  
-6. Supporting materials  
+1. Audit master + projects + references
+2. Approve Career Model
+3. Project documentation
+4. Resume generation
+5. LinkedIn
+6. Supporting materials
 
 ## Job matching
 

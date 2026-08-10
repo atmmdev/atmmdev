@@ -17,14 +17,14 @@ Senior Frontend Engineer with 15+ years in software engineering and a 20+ years 
 
 ## Technical Skills
 
-- Stack (Primary): JavaScript, TypeScript, React.js, Next.js (SSR, SSG, App Router), Node.js, Nest.js, Express.js, Tailwind CSS.
-- APIs & Data: RESTful APIs, GraphQL.
-- Testing: Jest, React Testing Library, Test-Driven Development (TDD).
-- Backend: C#, ASP.NET Core (Entity Framework, Razor, Blazor, Dapper, LINQ, Web APIs).
-- Databases: SQL Server, MongoDB, MySQL.
-- Automation & AI Engineering: Cursor, Github Copilot, OpenAI APIs, N8N, Zapier, Python (automation scripts).
-- DevOps & Cloud: Docker, GitHub Actions, AWS (S3, EC2, Lambda, RDS).
-- Legacy & CMS (Enterprise Modernization, Integrations & Support): Bootstrap, PHP, Laravel, WordPress.
+- **Core:** TypeScript, JavaScript, React, Next.js (App Router, SSR, SSG), HTML5, CSS3, Tailwind CSS
+- **Frontend architecture:** Design Systems, component libraries, Feature-First structure, performance optimization
+- **State & data fetching:** TanStack Query, Zustand, Redux Toolkit, Context API
+- **UI engineering:** React Hook Form, Zod, design tokens, responsive UI, i18n
+- **APIs & integration:** RESTful APIs, GraphQL, BFF consumption, JWT / SSO client flows
+- **Testing:** Jest, React Testing Library, TypeScript strict mode, ESLint
+- **Backend:** Node.js, NestJS, Docker, CI/CD (GitHub Actions), AWS Amplify / CloudFront
+- **Also used:** PHP, WordPress, Laravel (legacy modernization and CMS frontends)
 
 ---
 
