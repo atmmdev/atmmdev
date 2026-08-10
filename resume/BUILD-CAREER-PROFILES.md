@@ -15,23 +15,25 @@ Primary stack: React · Next.js · TypeScript · Node.js · NestJS
 
 ## Resume versions
 
-| File                              | Target roles                              |
-| --------------------------------- | ----------------------------------------- |
-| `resume/fullstack.md`             | Fullstack / Node+Next / Software Engineer |
-| `resume/frontend.md`              | React/Next Engineering / UI Frontend      |
-| `resume/ai.md`                    | AI-powered applications (not ML Engineer) |
-| `resume/dotnet.md`                | React + C#/ASP.NET (C# complementary)     |
-| `resume/custom/<company-role>.md` | Job-specific adaptations                  |
+| File                                  | Target roles                              |
+| ------------------------------------- | ----------------------------------------- |
+| `fullstack-en.md` / `fullstack-pt.md` | Fullstack / Node+Next / Software Engineer |
+| `frontend-en.md` / `frontend-pt.md`   | React/Next Engineering / UI Frontend      |
+| `ai-en.md` / `ai-pt.md`               | AI-powered applications (not ML Engineer) |
+| `dotnet-en.md` / `dotnet-pt.md`       | React + C#/ASP.NET (C# complementary)     |
+| `custom/<company-role>.md`            | Job-specific adaptations                  |
+
+Naming convention: `<track>-en.md` (English) · `<track>-pt.md` (Portuguese)
 
 ## Supporting materials
 
-| File                             | Purpose                               |
-| -------------------------------- | ------------------------------------- |
-| `resume/linkedin.md`             | LinkedIn draft (broader than one CV)  |
-| `resume/portfolio.md`            | Portfolio structure / project index   |
-| `resume/cover-letter.md`         | Short adaptable templates             |
-| `resume/technical-highlights.md` | Interview & application ammo          |
-| `resume/interview-notes.md`      | Q&A grounded in documented experience |
+| File                      | Purpose                               |
+| ------------------------- | ------------------------------------- |
+| `linkedin.md`             | LinkedIn draft (broader than one CV)  |
+| `portfolio.md`            | Portfolio structure / project index   |
+| `cover-letter.md`         | Short adaptable templates             |
+| `technical-highlights.md` | Interview & application ammo          |
+| `interview-notes.md`      | Q&A grounded in documented experience |
 
 ## Golden rules
 
@@ -42,7 +44,7 @@ Primary stack: React · Next.js · TypeScript · Node.js · NestJS
 5. Bullets: Action + Context + Result, ~one idea each.
 6. Preserve master metrics exactly.
 7. Keep employer history consistent across versions; only reweight bullets/projects.
-8. LinkedIn Experience matches `fullstack.md` (canonical). Other CVs may reweight; facts stay the same.
+8. LinkedIn Experience matches `fullstack-en.md` (canonical). Other CVs may reweight; facts stay the same.
 
 ## Execution phases
 
@@ -55,4 +57,4 @@ Primary stack: React · Next.js · TypeScript · Node.js · NestJS
 
 ## Job matching
 
-When given a JD: map requirements → evidence → match (Strong / Practical / Limited), pick base CV, adapt into `resume/custom/`, never inflate Limited to Strong.
+When given a JD: map requirements → evidence → match (Strong / Practical / Limited), pick base CV (`*-en.md` or `*-pt.md`), adapt into `custom/`, never inflate Limited to Strong.

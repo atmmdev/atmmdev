@@ -132,14 +132,14 @@ A: Map to one of: React/Next engineering, Node/Next fullstack, UI frontend, AI-p
 
 ## Quick evidence map
 
-| Claim | Evidence |
-| --- | --- |
-| Frontend performance | IBM 55%, Thera 60%, BairesDev 45% |
-| Delivery acceleration | BairesDev +56% component architecture |
-| Tech debt | IBM −35% |
-| API performance | Globant −40%, Thera API +40% efficiency |
-| AI product work | CVMBot |
-| Enterprise frontend architecture | Illumia |
-| Fullstack SaaS | TagVirtual |
-| Distributed systems | Afya Kafka/SSO/GitOps |
-| GCP enterprise portal | Portal Florestal |
+| Claim                            | Evidence                                |
+| -------------------------------- | --------------------------------------- |
+| Frontend performance             | IBM 55%, Thera 60%, BairesDev 45%       |
+| Delivery acceleration            | BairesDev +56% component architecture   |
+| Tech debt                        | IBM −35%                                |
+| API performance                  | Globant −40%, Thera API +40% efficiency |
+| AI product work                  | CVMBot                                  |
+| Enterprise frontend architecture | Illumia                                 |
+| Fullstack SaaS                   | TagVirtual                              |
+| Distributed systems              | Afya Kafka/SSO/GitOps                   |
+| GCP enterprise portal            | Portal Florestal                        |

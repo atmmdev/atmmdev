@@ -50,7 +50,7 @@ GitHub: https://github.com/atmmdev
 
 ## Experience
 
-Canonical experience (same employers, titles, dates, and bullets as `fullstack.md`).  
+Canonical experience (same employers, titles, dates, and bullets as `fullstack-en.md`).  
 Other CV versions may reweight bullets; they must not change these facts.
 
 ### IBM — Frontend Engineer (React.js)
