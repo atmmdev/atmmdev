@@ -27,13 +27,14 @@ Naming convention: `<track>-en.md` (English) · `<track>-pt.md` (Portuguese)
 
 ## Supporting materials
 
-| File                      | Purpose                               |
-| ------------------------- | ------------------------------------- |
-| `linkedin.md`             | LinkedIn draft (broader than one CV)  |
-| `portfolio.md`            | Portfolio structure / project index   |
-| `cover-letter.md`         | Short adaptable templates             |
-| `technical-highlights.md` | Interview & application ammo          |
-| `interview-notes.md`      | Q&A grounded in documented experience |
+| File | Purpose |
+| --- | --- |
+| `linkedin.md` | LinkedIn draft (broader than one CV) |
+| `portfolio.md` | Portfolio structure / project index |
+| `cover-letter.md` | Short adaptable templates for a specific job |
+| `outreach-email.md` | Recruiter cold/warm intro emails (PT/EN) |
+| `technical-highlights.md` | Interview & application ammo |
+| `interview-notes.md` | Q&A grounded in documented experience |
 
 ## Golden rules
 

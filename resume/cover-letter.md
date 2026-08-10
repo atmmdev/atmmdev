@@ -6,12 +6,12 @@ Keep it short. Adapt every section to the job. Do not paste a generic essay.
 
 ## Structure
 
-1. Position applied for  
-2. Why the company / product is relevant  
-3. Relevant experience  
-4. Relevant project  
-5. Why my background fits  
-6. Closing  
+1. Position applied for
+2. Why the company / product is relevant
+3. Relevant experience
+4. Relevant project
+5. Why my background fits
+6. Closing
 
 ---
 
@@ -63,14 +63,14 @@ www.atmm.dev · atmmoreira.rj@gmail.com · +55 21 9.9289.0362
 
 ## Adaptation cheat sheet
 
-| JD emphasis | Experience to cite | Project to cite |
-| --- | --- | --- |
-| React / Next.js | IBM, Illumia bullets | Illumia, Afya frontend |
-| Fullstack Node/Nest | BairesDev, TagVirtual/Portal | TagVirtual, Portal Florestal, Afya |
-| Performance / modernization | IBM 55%, BairesDev 45%, Thera 60% | Illumia / legacy modernization story |
-| AI / LLM apps | CVMBot + AI-assisted engineering | CVMBot (+ InvestNews as substrate) |
-| React + C# | Frontend depth + honest complementary .NET | Illumia/Afya as React API-collaboration proof |
-| Design Systems / UI | Globant, ATMM, Illumia | Illumia, Afya, InvestNews blocks |
+| JD emphasis                 | Experience to cite                         | Project to cite                               |
+| --------------------------- | ------------------------------------------ | --------------------------------------------- |
+| React / Next.js             | IBM, Illumia bullets                       | Illumia, Afya frontend                        |
+| Fullstack Node/Nest         | BairesDev, TagVirtual/Portal               | TagVirtual, Portal Florestal, Afya            |
+| Performance / modernization | IBM 55%, BairesDev 45%, Thera 60%          | Illumia / legacy modernization story          |
+| AI / LLM apps               | CVMBot + AI-assisted engineering           | CVMBot (+ InvestNews as substrate)            |
+| React + C#                  | Frontend depth + honest complementary .NET | Illumia/Afya as React API-collaboration proof |
+| Design Systems / UI         | Globant, ATMM, Illumia                     | Illumia, Afya, InvestNews blocks              |
 
 ## Rules
 
