@@ -36,54 +36,55 @@ I am strongest shipping product UIs and fullstack JavaScript/TypeScript systems 
 
 **Feb 2024 – Apr 2026** · Germany (Remote)
 
-- Optimized React/Next.js apps, reducing page load time by 55%.
-- Reduced frontend technical debt by 35% through UI refactoring.
-- Integrated REST and GraphQL APIs into production interfaces.
-- Collaborated on Node.js/NestJS platform improvements (+15% performance).
-- Used AI-assisted tools to accelerate complex refactors and comprehension of code.
+- Optimized React/Next.js applications through architectural improvements, reducing page load time by 55%.
+- Drove UI refactoring with the frontend team, cutting technical debt by 35% within the first month.
+- Integrated RESTful and GraphQL APIs into production interfaces for reliable client data fetching.
+- Partnered on Node.js/NestJS platform work, improving overall platform performance by 15%.
+- Accelerated complex refactors with AI-assisted tooling while preserving architectural consistency.
 
 ### BairesDev — Fullstack Engineer
 
 **Aug 2021 – Jan 2024** · USA (Remote)
 
-- Delivered React frontends and Node.js/Laravel/WordPress backends for Cars.com clients.
-- Migrated legacy systems to Laravel (+35% performance) with MVC-based architectures.
-- Replaced jQuery UIs with React/TypeScript (−45% load time).
-- Built reusable component architectures (+56% frontend delivery speed).
-- Code refactors by improving analysis, and creating new workflows while preserving critical business rules.
+- Delivered fullstack solutions with React, Node.js, Laravel, and Headless WordPress for Cars.com clients.
+- Migrated legacy systems to Laravel MVC architectures, improving performance by 35%.
+- Modernized jQuery-heavy frontends to React and TypeScript, reducing load times by 45%.
+- Built reusable component architectures and UI libraries, accelerating frontend delivery by 56%.
+- Refactored critical product flows while preserving existing business rules.
 
 ### Thera Solutions — Fullstack Engineer
 
 **Mar 2018 – Jun 2021** · Brazil (Remote)
 
-- Modernized React/TypeScript frontends (+60% UI performance).
-- Rebuilt legacy systems for maintainability and UX.
-- Improved API efficiency by 40% in collaboration with backend teams.
-- Automated internal workflows with N8N and Zapier.
-- AI-assisted analysis to identify bottlenecks and validate performance in frontend.
+- Modernized enterprise frontends with React, TypeScript, Hooks, and Context API, improving UI performance by 60%.
+- Rebuilt legacy systems to improve maintainability, scalability, and user experience.
+- Automated internal business workflows with N8N and Zapier, reducing manual operational overhead.
+- Partnered with backend teams on API contracts and performance, improving API efficiency by 40%.
 
 ### Globant — Frontend Engineer
 
 **Feb 2015 – Jan 2018** · Canada (Remote)
 
-- Built enterprise React SPAs with modern UI tooling.
-- Optimized Node.js/Express APIs (−40% server response time).
-- Contributed to microservices-oriented delivery.
-- Shipped responsive UI contributing to a 26% bounce-rate reduction.
+- Developed enterprise SPAs with React, Context API, Axios, and Tailwind CSS.
+- Optimized Node.js/Express APIs, reducing server response times by 40%.
+- Contributed to microservices-oriented architectures for faster delivery and long-term maintainability.
+- Implemented responsive UI patterns that contributed to a 26% reduction in bounce rate.
+- Partnered with UX/UI and Product to translate Design System patterns into production interfaces.
 
 ### ATMM.dev — Frontend Engineer / UI Specialist
 
 **Jul 2005 – Dec 2014** · Brazil (Remote)
 
-- Delivered web products with JavaScript, HTML5/CSS3, SASS, TailwindCSS and PHP/WordPress.
-- Built foundations in UI architecture and API-consuming frontends.
-- Developed websites and digital interfaces for small and medium-sized businesses.
+- Delivered custom web products with JavaScript, HTML5/CSS3, SASS, Tailwind CSS, and PHP/WordPress.
+- Established foundations in frontend performance, component-based UI, and responsive design.
+- Collaborated with designers and stakeholders to translate visual concepts into production interfaces.
 
-### Early Career — Web Designer / UX-UI Specialist Designer
+### Early Career — Web Designer / UX-UI Designer
 
 **Jan 2000 – Jun 2005** · Brazil (Remote)
 
-- Designed and implemented digital interfaces for differents clients.
+- Designed and developed digital interfaces for clients from requirements through implementation.
+- Built early web applications with HTML, CSS, and JavaScript in close client collaboration.
 
 ---
 

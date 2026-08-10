@@ -34,53 +34,53 @@ Senior Frontend Engineer with 15+ years in software engineering and a 20+ years 
 
 **Feb 2024 – Apr 2026** · Germany (Remote)
 
-- Optimized React/Next.js applications, reducing page load time by 55%.
-- Led UI refactoring with the frontend team, reducing technical debt by 35% in the first month.
-- Integrated REST and GraphQL into reliable client data-fetching flows.
-- Partnered with platform engineers on Node.js/NestJS interfaces affecting frontend performance (+15% platform improvement).
-- Accelerated complex UI refactors with AI-assisted analysis while keeping architectural consistency.
+- Optimized React/Next.js applications through architectural improvements, reducing page load time by 55%.
+- Drove UI refactoring with the frontend team, cutting technical debt by 35% within the first month.
+- Integrated RESTful and GraphQL APIs into production interfaces for reliable client data fetching.
+- Partnered on Node.js/NestJS platform interfaces that improved overall platform performance by 15%.
+- Accelerated complex UI refactors with AI-assisted tooling while preserving architectural consistency.
 
 ### BairesDev — Fullstack Engineer
 
 **Aug 2021 – Jan 2024** · USA (Remote)
 
-- Replaced jQuery-heavy UIs with React and TypeScript, reducing load times by 45%.
-- Built reusable component architectures, accelerating frontend delivery by 56%.
+- Modernized jQuery-heavy frontends to React and TypeScript, reducing load times by 45%.
+- Built reusable component architectures and UI libraries, accelerating frontend delivery by 56%.
 - Delivered React frontends for Cars.com client products alongside Node.js and Headless WordPress APIs.
-- Modernized legacy interfaces while preserving critical business rules.
+- Refactored critical product flows while preserving existing business rules.
 
 ### Thera Solutions — Fullstack Engineer
 
 **Mar 2018 – Jun 2021** · Brazil (Remote)
 
-- Modernized React/TypeScript UIs with Hooks and Context API, improving UI performance by 60%.
-- Rebuilt legacy frontends for maintainability and clearer user experience.
-- Collaborated with backend teams on API contracts that improved efficiency by 40%.
-- Automated internal business workflows with N8N and Zapier.
+- Modernized enterprise frontends with React, TypeScript, Hooks, and Context API, improving UI performance by 60%.
+- Rebuilt legacy frontends to improve maintainability, scalability, and user experience.
+- Partnered with backend teams on API contracts and performance, improving API efficiency by 40%.
+- Automated internal business workflows with N8N and Zapier, reducing manual operational overhead.
 
 ### Globant — Frontend Engineer
 
 **Feb 2015 – Jan 2018** · Canada (Remote)
 
 - Developed enterprise SPAs with React, Context API, Axios, and Tailwind CSS.
-- Implemented responsive interfaces that contributed to a 26% bounce-rate reduction.
-- Partnered with UX/UI and Product to turn Design System patterns into production UI.
-- Collaborated on API performance work (Node.js/Express), supporting a 40% server-response improvement.
+- Implemented responsive UI patterns that contributed to a 26% reduction in bounce rate.
+- Partnered with UX/UI and Product to translate Design System patterns into production interfaces.
+- Collaborated on Node.js/Express API performance work, supporting a 40% server-response improvement.
 
 ### ATMM.dev — Frontend Engineer / UI Specialist
 
 **Jul 2005 – Dec 2014** · Brazil (Remote)
 
-- Delivered custom web products with JavaScript, HTML5/CSS3, SASS, TailwindCSS and PHP/WordPress.
-- Built early component-based UI and responsive design practices for client products.
-- Worked directly with designers and stakeholders from concept to interface.
+- Delivered custom web products with JavaScript, HTML5/CSS3, SASS, Tailwind CSS, and PHP/WordPress.
+- Established foundations in frontend performance, component-based UI, and responsive design.
+- Collaborated with designers and stakeholders to translate visual concepts into production interfaces.
 
-### Early Career — Web Designer / UX-UI Specialist Designer
+### Early Career — Web Designer / UX-UI Designer
 
 **Jan 2000 – Jun 2005** · Brazil (Remote)
 
-- Designed and implemented digital interfaces for clients end-to-end.
-- Owned requirements-to-UI delivery with strong visual and interaction focus.
+- Designed and developed digital interfaces for clients from requirements through implementation.
+- Built early web applications with HTML, CSS, and JavaScript in close client collaboration.
 
 ---
 
@@ -90,18 +90,18 @@ Senior Frontend Engineer with 15+ years in software engineering and a 20+ years 
 
 Customer Care platform for DirecTV Argentina.
 
-- Built Feature-First App Router architecture with auth middleware.
-- Implemented JWT refresh rotation, route protection, and Design System tokens.
+- Architected a Feature-First App Router application with authentication middleware and route protection.
+- Implemented JWT refresh-token rotation and Design System tokens for consistent enterprise UI.
 - Delivered Chat, cancellation, reactivation, and PQRS modules integrated with a BFF.
-- Used TanStack Query and Zustand for server/client state with caching strategy.
+- Managed server/client state with TanStack Query and Zustand, including caching strategy.
 
 ### Afya Marketplace Ecosystem — Next.js, React, Medusa, NestJS
 
 Physician marketplace with customer, admin, and seller journeys.
 
-- Delivered Next.js/React catalog and checkout experiences with TypeScript and Tailwind.
+- Built Next.js/React catalog and checkout experiences with TypeScript and Tailwind.
 - Implemented corporate SSO (Logto/OIDC) with NextAuth session flows.
-- Built operational React frontends with TanStack Query/Table and form workflows.
+- Delivered operational React frontends with TanStack Query/Table and form workflows.
 
 ### Portal Florestal — Next.js, React, NestJS, GCP
 
@@ -109,7 +109,7 @@ Enterprise forestry operations portal (Suzano).
 
 - Built plugin-oriented Next.js architecture for operational modules.
 - Delivered complex data UIs (including AG Grid) with hybrid Redux + TanStack Query state.
-- Integrated SAML-authenticated product surfaces with strong security/UX constraints.
+- Integrated SAML-authenticated product surfaces under enterprise security constraints.
 
 ### InvestNews CMS — WordPress, Gutenberg, custom UI
 

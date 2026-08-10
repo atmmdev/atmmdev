@@ -34,49 +34,51 @@ Primary evidence: CVMBot, an editorial automation platform using GPT-4o and AWS 
 
 **Feb 2024 – Apr 2026** · Germany (Remote)
 
-- Optimized React/Next.js applications, reducing page load time by 55%.
-- Reduced frontend technical debt by 35% through structured UI refactoring.
-- Integrated REST/GraphQL clients and collaborated on Node.js/NestJS platform improvements (+15%).
-- Used AI-assisted engineering tools to accelerate complex refactors with architectural consistency.
+- Optimized React/Next.js applications through architectural improvements, reducing page load time by 55%.
+- Drove UI refactoring with the frontend team, cutting technical debt by 35% within the first month.
+- Integrated RESTful and GraphQL APIs into production interfaces for reliable client data fetching.
+- Partnered on Node.js/NestJS platform work, improving overall platform performance by 15%.
+- Accelerated complex refactors with AI-assisted tooling while preserving architectural consistency.
 
 ### BairesDev — Fullstack Engineer
 
 **Aug 2021 – Jan 2024** · USA (Remote)
 
-- Delivered fullstack React/Node/Laravel/WordPress solutions for Cars.com clients.
-- Modernized jQuery frontends to React/TypeScript (−45% load time).
-- Built reusable UI architectures that accelerated frontend delivery by 56%.
-- Migrated legacy systems to Laravel (+35% performance) while preserving business rules.
+- Delivered fullstack solutions with React, Node.js, Laravel, and Headless WordPress for Cars.com clients.
+- Modernized jQuery-heavy frontends to React and TypeScript, reducing load times by 45%.
+- Built reusable component architectures and UI libraries, accelerating frontend delivery by 56%.
+- Migrated legacy systems to Laravel MVC architectures, improving performance by 35%.
 
 ### Thera Solutions — Fullstack Engineer
 
 **Mar 2018 – Jun 2021** · Brazil (Remote)
 
-- Improved React/TypeScript UI performance by 60% through modernization.
-- Automated internal business workflows with N8N and Zapier.
-- Partnered with backend teams to improve API efficiency by 40%.
+- Modernized enterprise frontends with React, TypeScript, Hooks, and Context API, improving UI performance by 60%.
+- Automated internal business workflows with N8N and Zapier, reducing manual operational overhead.
+- Partnered with backend teams on API contracts and performance, improving API efficiency by 40%.
 
 ### Globant — Frontend Engineer
 
 **Feb 2015 – Jan 2018** · Canada (Remote)
 
-- Built enterprise React SPAs and contributed to Node.js/Express API performance (−40% response time).
-- Shipped responsive UI work contributing to a 26% bounce-rate reduction.
-- Collaborated with UX/UI and Product on Design System-driven interfaces.
+- Developed enterprise SPAs with React, Context API, Axios, and Tailwind CSS.
+- Optimized Node.js/Express APIs, reducing server response times by 40%.
+- Implemented responsive UI patterns that contributed to a 26% reduction in bounce rate.
+- Partnered with UX/UI and Product to translate Design System patterns into production interfaces.
 
 ### ATMM.dev — Frontend Engineer / UI Specialist
 
 **Jul 2005 – Dec 2014** · Brazil (Remote)
 
-- Delivered custom web products with JavaScript, HTML5/CSS3, SASS, TailwindCSS and PHP/WordPress.
-- Built long-running foundation in UI architecture and stakeholder-driven delivery.
-- Developed websites and digital interfaces for small and medium-sized businesses.
+- Delivered custom web products with JavaScript, HTML5/CSS3, SASS, Tailwind CSS, and PHP/WordPress.
+- Established foundations in frontend performance, component-based UI, and responsive design.
+- Collaborated with designers and stakeholders to translate visual concepts into production interfaces.
 
-### Early Career — Web Designer / UX-UI Specialist Designer
+### Early Career — Web Designer / UX-UI Designer
 
 **Jan 2000 – Jun 2005** · Brazil (Remote)
 
-- Designed and implemented digital interfaces for clients end-to-end.
+- Designed and developed digital interfaces for clients from requirements through implementation.
 
 ---
 
