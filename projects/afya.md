@@ -1,85 +1,99 @@
-# Afya Marketplace Ecosystem - [See Online](https://institucional.afya.com.br/)
+# Afya Marketplace Ecosystem
 
-Distributed marketplace ecosystem for physicians: e-commerce core, financial integrations, educational catalog sync, and frontends for customer, admin, and seller.
+[See Online](https://institucional.afya.com.br/)
+
+## Overview
+
+Distributed marketplace ecosystem for physicians: e-commerce core, financial integrations, educational catalog sync, and distinct frontends for customer, admin, and seller journeys.
 
 ## Context
 
-| Field                | Value                            |
-| -------------------- | -------------------------------- |
-| **Company / Client** | Afya                             |
-| **Industry**         | Healthcare / Edtech / E-commerce |
-| **Your role**        | Full-stack Engineer              |
-| **Team size**        | 55 Contributors                  |
+| Field | Value |
+| --- | --- |
+| **Company / Client** | Afya |
+| **Industry** | Healthcare / Edtech / E-commerce |
+| **My role** | Full-stack Engineer |
+| **Team size** | 55 contributors |
+| **Employer mapping** | Document in master when linking to a specific employer engagement |
 
-## Stack
+## Business Problem
 
-| Layer                           | Technologies                                                             |
-| ------------------------------- | ------------------------------------------------------------------------ |
-| **Marketplace Backend**         | Medusa 2.x (Node.js/TypeScript) · Mercur modules · PostgreSQL · Redis    |
-| **Integration APIs**            | NestJS 10 · TypeScript 5 · MongoDB/Mongoose · Axios · Swagger            |
-| **Customer Frontend**           | Next.js 15 · React 19 · TypeScript · Tailwind 4 · HeroUI · Framer Motion |
-| **Operational Frontends**       | Vite · React · TypeScript · TanStack Query/Table · React Hook Form       |
-| **Authentication**              | SSO Logto/OIDC · NextAuth v5 beta · JWT (Nest/Medusa)                    |
-| **Payments & Finance**          | Stripe Connect (marketplace) · Vinci and Forza providers                 |
-| **Messaging & Async**           | Kafka (kafkajs) · Webhooks · Cron jobs (`@nestjs/schedule`)              |
-| **Observability**               | Winston structured logging · audit logs in MongoDB                       |
-| **Storage/Notification/Search** | S3 provider · Resend/local notifications · Algolia                       |
-| **Infrastructure & Deploy**     | Docker · AWS ECR · ArgoCD + Helm · GitHub Actions                        |
+Build an internal physician marketplace covering e-commerce, financial products (insurance and pension), educational catalog synchronization, and separate customer/admin/seller journeys — across a distributed multi-repository architecture.
 
-## Business problem
+## My Role
 
-Physician marketplace intern platform covering e-commerce, financial products (insurance and pension), educational catalog synchronization, and distinct journeys for customer, admin, and seller — all in a distributed architecture across multiple repositories.
+Full-stack engineer contributing across marketplace core (Medusa/Mercur), Next.js/React frontends, NestJS integration APIs, SSO, financial provider workflows, and resilient async sync pipelines.
 
-## What I did
+## Responsibilities
 
-- Developed the distributed ecosystem: e-commerce core (Medusa/Mercur), Next.js/React frontend, and NestJS APIs for financial integrations and catalog.
+- Developed the distributed ecosystem: Medusa/Mercur e-commerce core, Next.js/React frontends, and NestJS APIs for financial integrations and catalog sync.
 - Implemented end-to-end corporate SSO (Logto/OIDC) with NextAuth on the frontend and identity validation/sync on the backend.
-- Built integrations with financial providers (Vinci and Forza), workflow engine, webhooks with adapters, and async processing with idempotency.
-- Delivered educational catalog sync via Kafka + webhook fallback, with event queues, retries, and operational audit.
-- Deployed CI/CD with GitHub Actions, Docker builds to AWS ECR, and GitOps deployment via ArgoCD/Helm.
-- Implemented advanced checkout and cart features (promotions, price reconciliation, shared cart) and analytics tracking with Segment.
+- Built integrations with financial providers (Vinci and Forza), workflow engine, webhook adapters, and async processing with idempotency.
+- Delivered educational catalog sync via Kafka + webhook fallback, with retries and operational audit.
+- Supported CI/CD with GitHub Actions, Docker builds to AWS ECR, and GitOps deploy via ArgoCD/Helm.
+- Implemented advanced checkout/cart behavior (promotions, price reconciliation, shared cart) and Segment analytics tracking.
 
 ## Architecture
 
-- Domain-Driven Development oriented pattern with modules per business context (product, workflow, webhook, providers, sync, audit, health).
+- Domain-oriented modules by business context (product, workflow, webhook, providers, sync, audit, health).
 - Ports/adapters and service layer to decouple business rules from external integrations.
-- Idempotency and resilience in critical integrations (webhook/Kafka/SSO), with standardized error handling.
-- Polyglot persistence: PostgreSQL/Redis for transactional core and MongoDB for integration/workflow/audit.
-- CI/CD pipeline with image builds to ECR and GitOps deployment via ArgoCD/Helm across multiple environments.
+- Idempotency and resilience patterns for webhook/Kafka/SSO paths.
+- Polyglot persistence: PostgreSQL/Redis for transactional marketplace core; MongoDB for integration, workflow, and audit data.
+- CI/CD with image builds to ECR and GitOps deployment via ArgoCD/Helm across environments.
 
-## Impact
+## Technologies
 
-- Robust automated test suite: 390+ unit and E2E tests reported in the project.
+| Layer | Technologies |
+| --- | --- |
+| **Marketplace Backend** | Medusa 2.x (Node.js/TypeScript) · Mercur · PostgreSQL · Redis |
+| **Integration APIs** | NestJS 10 · TypeScript · MongoDB/Mongoose · Axios · Swagger |
+| **Customer Frontend** | Next.js 15 · React 19 · TypeScript · Tailwind 4 · HeroUI · Framer Motion |
+| **Operational Frontends** | Vite · React · TypeScript · TanStack Query/Table · React Hook Form |
+| **Authentication** | Logto/OIDC · NextAuth v5 · JWT |
+| **Payments & Finance** | Stripe Connect · Vinci · Forza |
+| **Messaging** | Kafka (kafkajs) · Webhooks · Cron (`@nestjs/schedule`) |
+| **Observability** | Winston · MongoDB audit logs |
+| **Platform** | S3 · Resend · Algolia · Docker · AWS ECR · ArgoCD/Helm · GitHub Actions |
 
-## Implemented features
+## Technical Challenges
 
-**Marketplace Core**
+- Coordinating identity across frontend session (NextAuth) and backend marketplace/integration services.
+- Keeping financial provider workflows resilient under async webhooks and partial failures.
+- Syncing educational catalog reliably with Kafka primary path and webhook fallback without duplicating business rules.
+- Operating in a large multi-contributor, multi-repo ecosystem without breaking domain boundaries.
 
-- Multi-seller management with seller, reviews, commissions, payout, and payment split modules.
-- Custom APIs for external orders and payment status capture/update.
-- Backend SSO integration with token validation via userinfo, customer creation/sync, and login audit.
-- File upload via S3 provider; Resend notifications; Algolia search.
+## Technical Decisions
 
-**Marketplace Frontend**
+- Reuse the same business rules for Kafka and webhook ingestion to avoid divergent catalog states.
+- Idempotency keys and distributed locks (MongoDB) to prevent race conditions in jobs.
+- Separate NestJS integration APIs from Medusa core to isolate financial/edu sync complexity.
+- SSO as a cross-cutting identity flow rather than per-frontend ad hoc auth.
 
-- Full catalog and checkout journey with Medusa Store API integration.
-- SSO with NextAuth + Logto, unified session, and token consumption for authenticated calls.
-- Cart in Context API with persistence, shared cart support, and distinct product/service flows.
-- Promotions/coupons with discount reconciliation and automatic/manual rules.
-- Segment tracking (page, identify, track), analytics, and consent management.
-- Insurance and pension modules with profile pages and purchase history.
+## Results
 
-**Financial API**
+- Delivered a distributed marketplace covering catalog, checkout, financial products, and seller/admin operations.
+- Established resilient sync and webhook processing with auditability.
+- Automated test suite reported in the project: **390+ unit and E2E tests**.
 
-- Financial marketplace API with modular architecture and per-provider workflow.
-- Vinci integrations (survey, funds, simulation, document upload, enrollment, certificates) and Forza (specialties, simulation, order).
-- Unified webhooks with adapters, async processing, and status history for audit.
-- Distributed lock in MongoDB to prevent race conditions in jobs.
+> Preserve this test count only as quality evidence. Do not invent commercial KPIs for Afya.
 
-**Educon API**
+## Lessons Learned
 
-- Middleware between Educon seller and Medusa/Mercur marketplace for educational catalog sync.
-- Hybrid Kafka + webhook fallback ingestion, reusing the same business rules.
-- Catalog topic consumption with manual offset commit and idempotency via deterministic key.
-- Product/plan/financial plan/discount sync orchestration with local persistence in MongoDB.
-- Async processing via event queue (pending/processing/failed) with retries and operational observability.
+- In marketplace platforms, identity sync and idempotency matter as much as UI polish.
+- GitOps (ArgoCD/Helm) helps multi-environment delivery when many services evolve in parallel.
+- Frontend complexity grows quickly when customer, admin, and seller journeys share concepts but not the same app shell.
+
+## Resume Relevance
+
+| Track | Relevance | Why |
+| --- | --- | --- |
+| **Fullstack** | High | Medusa + NestJS + Next.js + Kafka + SSO + payments |
+| **Frontend** | High | Customer and operational React/Next experiences, checkout, SSO UX |
+| **AI** | Low | No LLM product scope |
+| **.NET** | Low | No C# / ASP.NET Core in this project |
+
+### Suggested CV angles
+
+- **Fullstack / Node+Next:** distributed marketplace, NestJS integrations, Kafka, GitOps.
+- **Frontend / React+Next:** catalog/checkout journeys, NextAuth SSO, TanStack Query operational UIs.
+- **UI Frontend:** strong if emphasizing design system usage, journey UX, and conversion flows — keep claims scoped to implemented UI work.

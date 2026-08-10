@@ -48,7 +48,7 @@
   - Built GCP integrations (Cloud Run, Cloud SQL, GCS, BigQuery, Firestore, Pub/Sub) with Azure Pipelines CI/CD.
   - Implemented end-to-end security and observability with SAML SSO, OpenTelemetry, and Datadog (APM, Logs, RUM).
 
-  [Details](./projects/portalflorestal.md) · [Online](https://portalflorestal.suzanonet.com.br/login)
+  [Details](./projects/portal-florestal.md) · [Online](https://portalflorestal.suzanonet.com.br/login)
 
 - **TagVirtual** — NestJS, Next.js, AWS (ECS, SQS, S3), Itaú Pix.
 

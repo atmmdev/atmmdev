@@ -1,71 +1,98 @@
 # InvestNews CMS
 
-Enterprise WordPress platform for a news portal and editorial products, with Bedrock architecture, custom theme, and an ecosystem of financial, marketing, SEO, and proprietary API integrations.
+[See Online](https://investnews.com.br/)
+
+## Overview
+
+Enterprise WordPress editorial platform for a high-volume financial news portal, using Bedrock architecture, custom theme/blocks, financial and marketing integrations, and secured proprietary APIs.
 
 ## Context
 
-| Field                | Value                       |
-| -------------------- | --------------------------- |
-| **Company / Client** | InvestNews                  |
-| **Industry**         | Media / Fintech / Editorial |
-| **Your role**        | Full-stack Engineer         |
-| **Team size**        | 25 Contributors             |
+| Field | Value |
+| --- | --- |
+| **Company / Client** | InvestNews |
+| **Industry** | Media / Fintech / Editorial |
+| **My role** | Full-stack Engineer |
+| **Team size** | 25 contributors |
+| **Employer mapping** | Document in master when linking to a specific employer engagement |
+| **Related project** | CVMBot (AI publishing pipeline into this CMS) |
 
-## Stack
+## Business Problem
 
-| Layer                     | Technologies                                                                                                           |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Core CMS**              | WordPress 6.9 · Bedrock (Roots) · PHP 8.2 · Composer                                                                   |
-| **Theme/Frontend**        | Custom investnews theme + amp-investnews theme · Gutenberg (29 ACF blocks) · Custom JS/CSS                             |
-| **Custom Fields**         | Advanced Custom Fields Pro                                                                                             |
-| **SEO & Content**         | Rank Math · Custom JSON-LD · Custom Open Graph                                                                         |
-| **Integrations**          | JWT Auth (REST) · Mailchimp · Beehiiv · ActiveCampaign · Yahoo Finance (RapidAPI) · CoinMarketCap · Dow Jones/WSJ feed |
-| **Media & Email**         | S3 Uploads · WP SES                                                                                                    |
-| **Build/Assets**          | Node 20 · Custom build.js (autoprefixer + cssnano + terser + watch mode)                                               |
-| **Infrastructure/Deploy** | Heroku CNB stack in AWS CodeBuild pipeline                                                                             |
-| **Quality/Security**      | PHPCS · PHPUnit (security suite) · GitHub Actions · OWASP ZAP                                                          |
+Operate a high-volume financial editorial portal with multiple content types, calculators, market data integrations, lead capture, marketing automations, and mobile monetization (AMP) — under editorial governance, technical SEO, and enterprise security constraints.
 
-## Business problem
+## My Role
 
-High-volume financial editorial portal with multiple content types, calculators, market integrations, lead capture, marketing automations, and mobile monetization (AMP) — all with editorial governance, technical SEO, and enterprise security.
+Full-stack engineer on the CMS platform: Bedrock/WordPress architecture, custom content model and Gutenberg blocks, secure REST APIs, third-party integrations, performance/security pipeline, and editorial tooling foundations used by downstream automation (CVMBot).
 
-## What I did
+## Responsibilities
 
-- Developed enterprise WordPress editorial platform with Bedrock, PHP 8.2, and a highly complex custom theme.
+- Built the enterprise WordPress platform with Bedrock, PHP 8.2, and a complex custom theme.
 - Implemented content architecture with 11 CPTs, 29 custom Gutenberg/ACF blocks, and conversion-oriented landing pages.
-- Built integrations with external APIs (Yahoo Finance, CoinMarketCap, Dow Jones/WSJ) and marketing automations (Mailchimp, Beehiiv, ActiveCampaign).
-- Created secure APIs and endpoints (JWT, nonce, capability checks) with structured logging and production observability.
-- Optimized performance with transient cache, custom minification pipeline (Node), S3 uploads, and quality pipeline with GitHub Actions + security tests.
+- Integrated external APIs (Yahoo Finance, CoinMarketCap, Dow Jones/WSJ) and marketing automations (Mailchimp, Beehiiv, ActiveCampaign).
+- Created secure APIs/endpoints (JWT, nonce, capability checks) with structured logging and production observability.
+- Optimized performance with transient cache, custom Node minification pipeline, S3 uploads, and quality/security checks via GitHub Actions.
 
 ## Architecture
 
-- Bedrock structure with per-environment configuration (development/staging/production) and variables via `.env`.
-- Modular code by domain in `functions/helpers/*` (core, seo, finance, forms, integrations, taxonomy, admin).
-- Centralized access control with reusable middlewares:
-  - `investnews_require_ajax_capability`
-  - `investnews_require_rest_capability`
-  - `investnews_require_admin_post_capability`
-- Centralized logging (`investnews_log`) with PSR-3 levels, correlation id, and PII/secrets masking.
-- WordPress dependency management via Composer (plugins, mu-plugins, patches with `cweagans/composer-patches`).
+- Bedrock structure with per-environment configuration and `.env`-driven settings.
+- Modular domain helpers (`core`, `seo`, `finance`, `forms`, `integrations`, `taxonomy`, `admin`).
+- Centralized access-control middlewares for AJAX, REST, and admin-post capabilities.
+- Centralized logging with PSR-3 levels, correlation id, and PII/secrets masking.
+- Composer-managed WordPress dependencies, plugins, mu-plugins, and patches.
 - Security suite covering XSS, SQLi, authentication/authorization, and nonce validation.
 
-## Implemented features
+## Technologies
 
-- Advanced editorial portal: multiple templates, reusable components, and 29 custom Gutenberg/ACF blocks.
-- Content modeling with 11 custom CPTs: stocks, cryptocurrencies, asset simulator, profiles, guides, infographics, sponsored, newsletter contact, wsj-codes, fixed income, lead_renda_extra.
-- Financial calculators and simulators: AJAX + REST endpoints (`renda-fixa/v1`), PDF generation, and rate limiting.
-- Financial market integrations: Yahoo/CoinMarketCap data ingestion and caching.
-- Lead capture and automation: LP forms, deduplication, CSV export, segmentation, and triggers to Mailchimp/Beehiiv/ActiveCampaign.
-- WSJ promotional flow: code distribution via taxonomy, validations, scheduled sending, and email automation.
-- Protected proprietary API: custom REST prefix (`inv-api`) with JWT and endpoint for authorized bot content creation.
-- Technical SEO and editorial governance: canonical, robots, OG image, schema, and taxonomy/redirect rules.
-- AMP and monetization: dedicated AMP theme, Advanced Ads, and mobile-optimized behavior.
-- Observability: structured JSON logs with per-request correlation and sensitive data sanitization.
+| Layer | Technologies |
+| --- | --- |
+| **CMS Core** | WordPress 6.9 · Bedrock (Roots) · PHP 8.2 · Composer |
+| **Theme / Frontend** | Custom themes · Gutenberg (29 ACF blocks) · Custom JS/CSS · AMP theme |
+| **Fields / SEO** | ACF Pro · Rank Math · Custom JSON-LD / Open Graph |
+| **Integrations** | JWT Auth · Mailchimp · Beehiiv · ActiveCampaign · Yahoo Finance · CoinMarketCap · Dow Jones/WSJ |
+| **Media / Email** | S3 Uploads · WP SES |
+| **Build** | Node 20 · custom build.js (autoprefixer, cssnano, terser) |
+| **Deploy / Quality** | Heroku CNB on AWS CodeBuild · PHPCS · PHPUnit security suite · GitHub Actions · OWASP ZAP |
 
-## CV bullets
+## Technical Challenges
 
-- Built enterprise WordPress editorial platform with Bedrock, PHP 8.2, and a highly complex custom theme for a high-volume financial portal.
-- Implemented content architecture with 11 CPTs, 29 custom Gutenberg/ACF blocks, and a complete conversion-oriented landing page flow.
-- Built integrations with external APIs (Yahoo Finance, CoinMarketCap, Dow Jones/WSJ) and marketing automations (Mailchimp, Beehiiv, ActiveCampaign).
-- Created secure APIs and endpoints (JWT, nonce, capability checks) with structured logging and production observability.
-- Optimized performance with transient cache, custom minification pipeline (Node), S3 uploads, and quality pipeline with GitHub Actions + security tests.
+- Modeling many editorial content types without turning the theme into an unmaintainable monolith.
+- Securing custom REST/AJAX surfaces used by internal tools and bots.
+- Keeping market-data and marketing integrations cacheable and operable under editorial traffic.
+- Supporting AMP/monetization without fracturing the main theme architecture.
+
+## Technical Decisions
+
+- Bedrock for environment discipline and Composer-based dependency control.
+- Domain-oriented helper modules instead of a single `functions.php` dump.
+- Capability-checked proprietary API (`inv-api`) as the safe contract for automation (including CVMBot publishing).
+- Structured logs with secret/PII masking as a production requirement, not optional debug output.
+
+## Results
+
+- Delivered an enterprise editorial CMS with 11 CPTs and 29 custom blocks.
+- Established secure API contracts and a security-oriented quality pipeline.
+- Created the content/publishing foundation later extended by CVMBot.
+
+> No invented traffic or revenue KPIs. Keep claims to platform capability and delivery scope.
+
+## Lessons Learned
+
+- For editorial products, content modeling and permissioned APIs are the real scalability levers.
+- CMS work is fullstack when custom APIs, integrations, and build/security pipelines are first-class.
+- Clean API boundaries make AI automation (CVMBot) safer to attach later.
+
+## Resume Relevance
+
+| Track | Relevance | Why |
+| --- | --- | --- |
+| **Fullstack** | Medium | Strong PHP/WordPress + API/integrations; less modern Node/React primary stack |
+| **Frontend** | Medium | Custom blocks/theme/AMP UI; useful for UI + content-product roles |
+| **AI** | Low–Medium | Not an AI app itself; critical substrate for CVMBot |
+| **.NET** | Low | No C# / ASP.NET Core in this project |
+
+### Suggested CV angles
+
+- **UI Frontend / content platforms:** Gutenberg blocks, editorial UX, landing flows, AMP.
+- **Fullstack (broader):** secure REST, integrations, Bedrock enterprise CMS.
+- **AI track companion:** pair with CVMBot as publishing destination / API contract.

@@ -1,81 +1,101 @@
-# ILLUMIA Customer Care Web - [See Online](https://www.directvla.com/ar/home)
+# ILLUMIA Customer Care Web
 
-DirecTV - Argentine, Customer Care web platform built with Next.js 16, focused on performance, security, scalability, and user experience, with modules for authentication, retention, cancellation, and PQRS management.
+[See Online](https://www.directvla.com/ar/home)
+
+## Overview
+
+Customer Care web platform for DirecTV Argentina, built with Next.js, focused on performance, security, scalable UX, and critical service modules (chat, cancellation, reactivation, PQRS).
 
 ## Context
 
-| Field                | Value                   |
-| -------------------- | ----------------------- |
-| **Company / Client** | Illumia                 |
-| **Industry**         | Telecom / Customer Care |
-| **Your role**        | Frontend Engineer       |
-| **Team size**        | 65 Contributors         |
+| Field | Value |
+| --- | --- |
+| **Company / Client** | Illumia / DirecTV Argentina |
+| **Industry** | Telecom / Customer Care |
+| **My role** | Frontend Engineer |
+| **Team size** | 65 contributors |
+| **Employer mapping** | Document in master when linking to a specific employer engagement |
 
-## Stack
-
-| Layer                       | Technologies                                                                    |
-| --------------------------- | ------------------------------------------------------------------------------- |
-| **Frontend**                | Next.js 16.0.1 (App Router) · React 19.2.0 · TypeScript 5+                      |
-| **Styling**                 | Tailwind CSS 4.0 · Custom Design System with design tokens                      |
-| **State (Server)**          | TanStack Query v5.90.10                                                         |
-| **State (Client)**          | Zustand 5.0.8 · React Context API                                               |
-| **Forms**                   | React Hook Form 7.66.1 · Zod 4.1.12 · Hookform Resolvers 5.2.2                  |
-| **Testing**                 | Jest 29.7.0 · React Testing Library 16.3.0 · User Event 14.6.1 · ts-jest 29.2.5 |
-| **Quality**                 | ESLint 9 · eslint-config-next 16.0.1 · TypeScript strict mode                   |
-| **i18n**                    | Custom (ES, PT-BR, EN)                                                          |
-| **Deploy & Infrastructure** | AWS Amplify · AWS CloudFront · GitHub Actions (proposed pipeline)               |
-
-## Business problem
+## Business Problem
 
 Centralize customer service in a modern web platform: integrated chat, service cancellation and reactivation, PQRS management, and analytics — with multi-environment support and a foundation for feature flags.
 
-## What I did
+## My Role
 
-- Developed the Customer Care web application with Next.js 16, React 19, and TypeScript 5+.
-- Implemented Feature-First architecture and App Router with route groups, authentication middleware, and separation between domain and infrastructure layers.
-- Built authentication flow with JWT, refresh token rotation, and route protection.
-- Managed state with TanStack Query (server state) and Zustand (client state), with intelligent caching.
-- Delivered critical modules (Chat, Baja Servicios, Reactivación, PQRS) integrated with BFF and multi-stage environment.
+Frontend engineer owning Customer Care application architecture and delivery: App Router structure, authentication/session flows, feature modules, state strategy, quality standards, and AWS Amplify deployment path.
+
+## Responsibilities
+
+- Developed the Customer Care web application with Next.js, React, and TypeScript.
+- Implemented Feature-First architecture and App Router with route groups, auth middleware, and domain/infrastructure separation.
+- Built JWT authentication with refresh token rotation and route protection.
+- Managed server/client state with TanStack Query and Zustand, including caching strategy.
+- Delivered critical modules (Chat, Baja Servicios, Reactivación, PQRS) integrated with a BFF.
 - Established quality standards with TypeScript strict mode, ESLint, Jest/RTL, and Conventional Commits.
 - Deployed on AWS Amplify with CloudFront and prepared CI/CD with GitHub Actions.
 
 ## Architecture
 
-- Feature-First Architecture by business domain.
-- Separation of Concerns across routes, features, shared, stores, lib, and i18n.
-- MVC adapted for React with isolated service layer.
-- Next.js App Router with route groups for public and protected routes.
+- Feature-First architecture by business domain.
+- Separation across routes, features, shared, stores, lib, and i18n.
+- MVC adapted for React with an isolated service layer.
+- Next.js App Router with public/protected route groups.
 - React Server Components, Streaming SSR, dynamic routes, and authentication middleware.
-- Path aliases, barrel exports, and custom hooks for standardization.
-- Prepared for observability with DataDog RUM, GA4, CloudWatch, and error tracking.
+- Path aliases, barrel exports, and custom hooks for consistency.
+- Observability foundation prepared for Datadog RUM, GA4, CloudWatch, and error tracking.
 
-## Implemented features
+## Technologies
 
-**Authentication & Session**
+| Layer | Technologies |
+| --- | --- |
+| **Frontend** | Next.js 16 (App Router) · React 19 · TypeScript 5+ |
+| **Styling** | Tailwind CSS 4 · Custom Design System / design tokens |
+| **State** | TanStack Query v5 · Zustand · React Context API |
+| **Forms** | React Hook Form · Zod · Hookform Resolvers |
+| **Testing** | Jest · React Testing Library · User Event · ts-jest |
+| **Quality** | ESLint · TypeScript strict mode |
+| **i18n** | Custom (ES, PT-BR, EN) |
+| **Deploy** | AWS Amplify · AWS CloudFront · GitHub Actions |
 
-- JWT Bearer Token authentication.
-- Refresh token rotation for automatic renewal.
-- Route protection with middleware and session control.
-- Security strategy with secure credentials and session handling.
+## Technical Challenges
 
-**Business Modules**
+- Protecting authenticated customer-care flows with reliable refresh-token rotation.
+- Structuring a large feature set (chat, retention, cancellation, PQRS) without a monolithic UI layer.
+- Balancing server state caching with sensitive customer operations.
+- Delivering in a large enterprise team with multi-environment promotion needs.
 
-- Illumia Chat integrated into the service flow.
-- Baja Servicios for service cancellation.
-- Reactivación for customer reactivation.
-- PQRS for petitions, complaints, claims, and suggestions.
-- Analytics for behavior tracking and metrics.
+## Technical Decisions
 
-**Integrations & Platform**
+- Feature-First over page-centric structure to keep business domains cohesive.
+- TanStack Query for server state; Zustand for client/UI state — avoid overloading Context.
+- Middleware-based route protection aligned with App Router conventions.
+- Amplify/CloudFront deployment within the existing AWS application hosting model.
 
-- BFF (Backend for Frontend) integration.
-- Multi-environment support (development, staging, and production).
-- Foundation prepared for feature flags and gradual rollout.
+## Results
 
-**Performance & Scalability**
+- Delivered critical Customer Care modules integrated with BFF and multi-stage environments.
+- Established a scalable frontend architecture (Feature-First + App Router) suitable for enterprise growth.
+- Hardened auth/session handling with JWT refresh rotation and protected routes.
 
-- Automatic code splitting and lazy loading.
-- Intelligent caching with TanStack Query (staleTime and gcTime).
-- Image optimization with custom loader.
-- Asset prefix with CDN for static delivery.
-- Optimized build with SWC.
+> No invented performance or conversion KPIs for Illumia. Prefer architecture and delivery outcomes unless a metric is later documented in master.
+
+## Lessons Learned
+
+- In customer-care products, auth/session edge cases are product risks, not just security chores.
+- Feature-First pays off when multiple domains share design system primitives but diverge in workflows.
+- BFF integration simplifies frontend contracts when backend landscapes are heterogeneous.
+
+## Resume Relevance
+
+| Track | Relevance | Why |
+| --- | --- | --- |
+| **Fullstack** | Medium | Frontend-heavy with BFF integration; limited backend ownership |
+| **Frontend** | High | Flagship Next.js/React architecture, Design System, auth UX, critical modules |
+| **AI** | Low | No LLM product scope |
+| **.NET** | Low | No C# / ASP.NET Core in this project |
+
+### Suggested CV angles
+
+- **React/Next Engineering:** App Router, RSC/SSR, Feature-First, Design System, TanStack Query.
+- **UI Frontend Developer:** design tokens, complex service workflows, i18n, accessible interaction patterns (only claim what was implemented).
+- **Fullstack:** mention BFF integration and auth flows as complementary backend collaboration.
