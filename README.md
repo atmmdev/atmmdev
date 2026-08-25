@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./favicon.png" />
   <h1>Anderson Toledo Martins Moreira</h1>
-  <p><strong>Fullstack Engineer (frontend-leaning)</strong> · TypeScript, React, Next.js, Node.js, NestJS · AI-assisted Development</p>
+  <p><strong>Senior Fullstack Engineer (frontend-focused)</strong> · React, Next.js, TypeScript, Node.js, NestJS</p>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 </div>
 
-**Fullstack Engineer** based in Rio de Janeiro, Brazil, open to remote and international relocation. **Frontend-leaning profile (~60/40) with 15+ years** building scalable web products for global companies including **IBM, BairesDev, Globant, British Petroleum, CNN Brasil, Cars.com.** Hands-on in **React, Next.js, TypeScript** and frontend architecture (performance, design systems, testing), with solid backend delivery in **Node.js, NestJS, REST/GraphQL APIs, auth, and cloud integrations.** Experienced across fintech, healthcare, e-commerce, media, and government services. Pragmatic approach to **Clean Architecture, DDD, and CI/CD**. Exposure to **C# / ASP.NET Core** and **AI-powered** product workflows.
+**Senior Fullstack Engineer (frontend-focused, ~60/40)** based in Rio de Janeiro, Brazil — open to remote and international relocation. **15+ years** in software engineering shipping web products with **IBM, BairesDev, Globant**, and clients such as **British Petroleum, CNN Brasil, and Cars.com.** Deepest strength in **React, Next.js, TypeScript** and frontend architecture; solid backend delivery in **Node.js, NestJS, REST/GraphQL, auth, and cloud-based applications.** Background in UX/UI that still shapes product interfaces. Complementary exposure to **C# / ASP.NET Core** and **AI-powered** product workflows.
 
 <div align="center">
 
