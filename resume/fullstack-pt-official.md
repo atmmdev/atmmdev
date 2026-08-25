@@ -23,10 +23,10 @@ Experiência em fintech, saúde, e-commerce, mídia e serviços governamentais. 
 
 - **Frontend:** JavaScript, TypeScript, React, Next.js (SSR, SSG, App Router), Tailwind CSS, Design Systems.
 - **Backend:** Node.js, NestJS, Express.js, REST API's, GraphQL.
-- **Database:** PostgreSQL, MySQL, MongoDB, SQL Server.
-- **Test:** Jest, React Testing Library, Test-Driven Development (TDD).
-- **Plataformas:** Docker, GitHub Actions, AWS (S3, EC2, Lambda, RDS).
-- **Outras Stacks:** PHP, Laravel, WordPress, Python/FastAPI (Automation Scripts), OpenAI API's, AWS Bedrock, C#/ASP.NET Core (Entity, Razor, Blazor, Dapper, LINQ, Web API's), N8N, Zapier.
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQL Server.
+- **Testing:** Jest, React Testing Library, Test-Driven Development (TDD).
+- **DevOps & Cloud:** Docker, GitHub Actions, AWS (S3, EC2, Lambda, RDS).
+- **Others:** PHP, Laravel, WordPress, Python/FastAPI (Automation Scripts), OpenAI API's, AWS Bedrock, C#/ASP.NET Core (Entity, Razor, Blazor, Dapper, LINQ, Web API's), N8N, Zapier.
 
 ---
 
@@ -96,8 +96,7 @@ Plataforma SaaS para gestão de tags de pedágio virtual com arquitetura de micr
 
 ### Afya Marketplace Ecosystem — Medusa, Next.js, NestJS, Kafka
 
-Marketplace distribuído para médicos: núcleo de e-commerce, integrações financeiras e sincronização de catálogo educacional. Entrega de ecossistema distribuído com núcleo Medusa/Mercur, frontends em Next.js e APIs de integração em NestJS. Implementação de SSO corporativo de ponta a ponta (Logto/OIDC) com NextAuth
-e sincronização de identidade no backend. Criação de pipelines resilientes utilizando Kafka, webhooks, idempotência e deploy via GitOps (ArgoCD/Helm).
+Marketplace distribuído para médicos: núcleo de e-commerce, integrações financeiras e sincronização de catálogo educacional. Entrega de ecossistema distribuído com núcleo Medusa/Mercur, frontends em Next.js e APIs de integração em NestJS. Implementação de SSO corporativo de ponta a ponta (Logto/OIDC) com NextAuth e sincronização de identidade no backend. Criação de pipelines resilientes utilizando Kafka, webhooks, idempotência e deploy via GitOps (ArgoCD/Helm).
 
 ### ILLUMIA Customer Care Web — Next.js, React, TypeScript, AWS Amplify
 
@@ -105,13 +104,11 @@ Plataforma web de atendimento ao cliente para a Directv-AR, focada em desempenho
 
 ### InvestNews CMS — WordPress, React/Nextjs, Bedrock, PHP, Gutenberg Blocks
 
-Plataforma editorial corporativa para portal de notícias financeiras de alto volume, com arquitetura de conteúdo personalizada. Construção de plataforma WordPress corporativa com 11 CPT's (Custom Post Types) e 29 blocos personalizados (Gutenberg/ACF). Integração com Yahoo Finance, CoinMarketCap, Dow Jones/WSJ e
-automações de marketing. Criação de APIs REST seguras (JWT, verificação de permissões) com logging estruturado e suíte de testes de segurança.
+Plataforma editorial corporativa para portal de notícias financeiras de alto volume, com arquitetura de conteúdo personalizada. Construção de plataforma WordPress corporativa com 11 CPT's (Custom Post Types) e 29 blocos personalizados (Gutenberg/ACF). Integração com Yahoo Finance, CoinMarketCap, Dow Jones/WSJ e automações de marketing. Criação de APIs REST seguras (JWT, verificação de permissões) com logging estruturado e suíte de testes de segurança.
 
 ### CVMBot — Python, FastAPI, GPT-4o, AWS Bedrock, React
 
-Plataforma de automação editorial, para o InvestNews CMS que transforma Fatos Relevantes da CVM em conteúdo publicado com auxílio de IA. Construção de pipeline CVM → IA → publicação utilizando Selenium,
-PyMuPDF, GPT-4o e avaliação de qualidade via Claude. Desenvolvi uma API de administração em FastAPI com governança de prompts (versionamento, deploy, rollback) e trilha de auditoria. Integrei a API REST do WordPress, PostgreSQL e canais de distribuição via WhatsApp.
+Plataforma de automação editorial, para o InvestNews CMS que transforma Fatos Relevantes da CVM em conteúdo publicado com auxílio de IA. Construção de pipeline CVM → IA → publicação utilizando Selenium, PyMuPDF, GPT-4o e avaliação de qualidade via Claude. Desenvolvi uma API de administração em FastAPI com governança de prompts (versionamento, deploy, rollback) e trilha de auditoria. Integrei a API REST do WordPress, PostgreSQL e canais de distribuição via WhatsApp.
 
 ### Portal Florestal — NestJS, Next.js, GCP (Cloud Run, BigQuery, Pub/Sub), Datadog
 

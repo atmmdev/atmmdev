@@ -1,7 +1,11 @@
 <div align="center">
   <img src="./favicon.png" />
   <h1>Anderson Toledo Martins Moreira</h1>
+<<<<<<< HEAD
   <p><strong>Senior Fullstack Engineer (frontend-focused)</strong> · React, Next.js, TypeScript, Node.js, NestJS</p>
+=======
+  <p><strong>Senior Fullstack Engineer (frontend-leaning)</strong> · TypeScript, React, Next.js, Node.js, NestJS · AI-assisted Development</p>
+>>>>>>> 8ec217715a579a5f942114148c0ef704b8db5a92
 </div>
 
 <div align="center">
@@ -11,7 +15,12 @@
 
 </div>
 
+<<<<<<< HEAD
 **Senior Fullstack Engineer (frontend-focused, ~60/40)** based in Rio de Janeiro, Brazil — open to remote and international relocation. **15+ years** in software engineering shipping web products with **IBM, BairesDev, Globant**, and clients such as **British Petroleum, CNN Brasil, and Cars.com.** Deepest strength in **React, Next.js, TypeScript** and frontend architecture; solid backend delivery in **Node.js, NestJS, REST/GraphQL, auth, and cloud-based applications.** Background in UX/UI that still shapes product interfaces. Complementary exposure to **C# / ASP.NET Core** and **AI-powered** product workflows.
+=======
+**Senior Fullstack Engineer** based in Rio de Janeiro, Brazil, open to remote and international relocation. With 15+ years of experience, and 20+ years building digital products as UX/UI Specialist Design. I ship enterprise platforms with **React, Next.js**, and **TypeScript**, backed by **Node.js** and **NestJS APIs**. Delivered products for **IBM, BairesDev, Globant**, and clients such as **British Petroleum, CNN Brasil**, and **Cars.com**. Strongest in frontend architecture, performance modernization, Design Systems, and reliable fullstack delivery across fintech, healthcare, media, telecom, and SaaS.
+
+>>>>>>> 8ec217715a579a5f942114148c0ef704b8db5a92
 
 <div align="center">
 
@@ -94,23 +103,3 @@
   - Integrated WordPress REST API, PostgreSQL, and WhatsApp distribution channels.
 
   [Details](./projects/cvmbot.md)
-
-## **Personal Projects**
-
-- **Soccer Analytics do ATM** — NestJS 11, Prisma/PostgreSQL, Next.js 15/React 19, pnpm monorepo.
-
-  Personal football intelligence platform: data ingest, probabilistic analysis, tickets, bankroll, and study history.
-  - Built monorepo with NestJS domain engines and Next.js thin-client dashboard (TanStack Query + Zustand).
-  - Implemented API-Football sync pipeline plus Poisson/EV analysis with BET/WATCH/SKIP recommendations.
-  - Delivered ticket builder (Kelly-like stake, correlation checks), bankroll ROI/yield tracking, and Bet365 PDF import for backtesting.
-
-  [Details](./projects/soccer-analytics.md) · [Repository](https://github.com/atmmdev/soccer.analytics)
-
-- **Soccer Predictions** — Next.js 16, NestJS 11, Prisma 7/MySQL, PWA, Hostinger.
-
-  Full-stack football pools platform with multi-provider auth, fixture sync, configurable scoring, and rankings.
-  - Built monorepo with Feature-First Next.js frontend and modular NestJS (DDD) backend, deployed as a unified Hostinger process.
-  - Implemented JWT + Google/Instagram OAuth, email verification via Resend, and role-based route protection.
-  - Delivered football-data.org sync jobs, configurable per-pool scoring engine, predictions with cutoff, rankings, and PWA.
-
-  [Details](./projects/soccer-predictions.md) · [Online](https://soccer.atmm.dev) · [Repository](https://github.com/atmmdev/soccer.predictions)
