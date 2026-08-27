@@ -92,25 +92,37 @@ Experience across fintech, healthcare, e-commerce, media, and government service
 
 ### TagVirtual — NestJS, Next.js, AWS (S3, EC2, Lambda, RDS), Itaú Pix
 
+[Online](https://tagvirtual.com.br/) · [Details](../projects/tagvirtual.md)
+
 SaaS platform for virtual toll tag management with a microservices architecture in a monorepo. Fullstack SaaS delivery with an isolated Pix payments service, granular RBAC, MFA, and audit logs. AWS integration (S3, EC2, Lambda, RDS) with automated deployment via Azure Pipelines and Docker. Async processing with SQS, real-time WebSockets (Socket.io), and Elastic APM.
 
 ### Afya Marketplace Ecosystem — Medusa, Next.js, NestJS, Kafka
+
+[Online](https://institucional.afya.com.br/) · [Details](../projects/afya.md)
 
 Distributed marketplace for physicians: e-commerce core, financial integrations, and educational catalog sync. Delivered a distributed ecosystem with Medusa/Mercur core, Next.js frontends, and NestJS integration APIs. End-to-end corporate SSO (Logto/OIDC) with NextAuth and backend identity sync. Resilient pipelines with Kafka, webhooks, idempotency, and GitOps deploy via ArgoCD/Helm.
 
 ### ILLUMIA Customer Care Web — Next.js, React, TypeScript, AWS Amplify
 
+[Online](https://www.directvla.com/ar/home) · [Details](../projects/illumia.md)
+
 Customer Care web platform for DirecTV Argentina, focused on performance, security, and scalable UX. Customer Care application with Feature-First architecture, App Router, and authentication middleware. JWT authentication with refresh token rotation and route protection. Critical modules (Chat, service cancellation, reactivation, PQRS) integrated via BFF.
 
 ### InvestNews CMS — WordPress, React/Next.js, Bedrock, PHP, Gutenberg Blocks
+
+[Online](https://investnews.com.br/) · [Details](../projects/investnews.md)
 
 Enterprise editorial platform for a high-volume financial news portal with custom content architecture. WordPress enterprise platform with 11 CPTs (Custom Post Types) and 29 custom Gutenberg/ACF blocks. Integrations with Yahoo Finance, CoinMarketCap, Dow Jones/WSJ, and marketing automations. Secure REST APIs (JWT, capability checks) with structured logging and a security test suite.
 
 ### CVMBot — Python, FastAPI, GPT-4o, AWS Bedrock, React
 
+[Details](../projects/cvmbot.md)
+
 Editorial automation platform for InvestNews CMS that transforms CVM Material Facts into AI-assisted published content. CVM → AI → publishing pipeline with Selenium, PyMuPDF, GPT-4o, and quality evaluation via Claude. FastAPI admin API with prompt governance (versioning, deploy, rollback) and audit trail. WordPress REST API, PostgreSQL, and WhatsApp distribution channels.
 
 ### Portal Florestal — NestJS, Next.js, GCP (Cloud Run, BigQuery, Pub/Sub), Datadog
+
+[Online](https://portalflorestal.suzanonet.com.br/login) · [Details](../projects/portal-florestal.md)
 
 Corporate forestry operations platform with a modular backend and plugin-oriented frontend. Fullstack delivery with domain-oriented NestJS modules and Next.js plugin architecture for operational tools (MLPlan, Puzzle, Explorer, C14, CEM, SFO, SIRA). Corporate SAML authentication with server-side sessions, RBAC, and cloud-native GCP integrations (Cloud Run, Cloud SQL, GCS, BigQuery, Firestore, Pub/Sub), with CI/CD via Azure Pipelines. End-to-end security and observability with Helmet, CSP, OpenTelemetry, and Datadog (APM, Logs, RUM).
 

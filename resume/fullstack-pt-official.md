@@ -92,25 +92,37 @@ Experiência em fintech, saúde, e-commerce, mídia e serviços governamentais. 
 
 ### TagVirtual — NestJS, Next.js, AWS (S3, EC2, Lambda, RDS), Itaú Pix
 
+[Online](https://tagvirtual.com.br/) · [Detalhes](../projects/tagvirtual.md)
+
 Plataforma SaaS para gestão de tags de pedágio virtual com arquitetura de microsserviços em um monorepo. Desenvolvimento de SaaS fullstack com serviço isolado de pagamentos via Pix, RBAC granular, MFA e logs de auditoria. Integração com AWS (S3, EC2, Lambda, RDS) e deploy automatizado via Azure Pipelines e Docker. Implementação de processamento assíncrono com SQS, WebSockets em tempo real (Socket.io) e Elastic APM.
 
 ### Afya Marketplace Ecosystem — Medusa, Next.js, NestJS, Kafka
+
+[Online](https://institucional.afya.com.br/) · [Detalhes](../projects/afya.md)
 
 Marketplace distribuído para médicos: núcleo de e-commerce, integrações financeiras e sincronização de catálogo educacional. Entrega de ecossistema distribuído com núcleo Medusa/Mercur, frontends em Next.js e APIs de integração em NestJS. Implementação de SSO corporativo de ponta a ponta (Logto/OIDC) com NextAuth e sincronização de identidade no backend. Criação de pipelines resilientes utilizando Kafka, webhooks, idempotência e deploy via GitOps (ArgoCD/Helm).
 
 ### ILLUMIA Customer Care Web — Next.js, React, TypeScript, AWS Amplify
 
+[Online](https://www.directvla.com/ar/home) · [Detalhes](../projects/illumia.md)
+
 Plataforma web de atendimento ao cliente para a Directv-AR, focada em desempenho, segurança e UX/UI escalável. Desenvolvimento de aplicação de atendimento com arquitetura _Feature-First_, App Router e middleware de autenticação. Implementação de autenticação JWT com rotação de _refresh token_ e proteção de rotas. Entrega de módulos críticos (Chat, cancelamento de serviço, reativação, PQRS) integrados via BFF.
 
 ### InvestNews CMS — WordPress, React/Nextjs, Bedrock, PHP, Gutenberg Blocks
+
+[Online](https://investnews.com.br/) · [Detalhes](../projects/investnews.md)
 
 Plataforma editorial corporativa para portal de notícias financeiras de alto volume, com arquitetura de conteúdo personalizada. Construção de plataforma WordPress corporativa com 11 CPT's (Custom Post Types) e 29 blocos personalizados (Gutenberg/ACF). Integração com Yahoo Finance, CoinMarketCap, Dow Jones/WSJ e automações de marketing. Criação de APIs REST seguras (JWT, verificação de permissões) com logging estruturado e suíte de testes de segurança.
 
 ### CVMBot — Python, FastAPI, GPT-4o, AWS Bedrock, React
 
+[Detalhes](../projects/cvmbot.md)
+
 Plataforma de automação editorial, para o InvestNews CMS que transforma Fatos Relevantes da CVM em conteúdo publicado com auxílio de IA. Construção de pipeline CVM → IA → publicação utilizando Selenium, PyMuPDF, GPT-4o e avaliação de qualidade via Claude. Desenvolvi uma API de administração em FastAPI com governança de prompts (versionamento, deploy, rollback) e trilha de auditoria. Integrei a API REST do WordPress, PostgreSQL e canais de distribuição via WhatsApp.
 
 ### Portal Florestal — NestJS, Next.js, GCP (Cloud Run, BigQuery, Pub/Sub), Datadog
+
+[Online](https://portalflorestal.suzanonet.com.br/login) · [Detalhes](../projects/portal-florestal.md)
 
 Plataforma corporativa de operações florestais com backend modular e frontend orientado a plugins. Fullstack com módulos NestJS por domínio e arquitetura de plugins em Next.js para ferramentas operacionais (MLPlan, Puzzle, Explorer, C14, CEM, SFO, SIRA). Autenticação corporativa SAML com sessão server-side, RBAC e integrações cloud-native em GCP (Cloud Run, Cloud SQL, GCS, BigQuery, Firestore, Pub/Sub), com CI/CD via Azure Pipelines. Segurança e observabilidade ponta a ponta com Helmet, CSP, OpenTelemetry e Datadog (APM, Logs e RUM).
 
